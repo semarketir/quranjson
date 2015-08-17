@@ -1,0 +1,35 @@
+/*
+ *  jquery-loading - v1.0.3
+ *  Easily add and manipulate loading states of any element on the page
+ *  http://github.com/CarlosBonetti/jquery-loading
+ *
+ *  Made by Carlos Bonetti
+ *  Under MIT License
+ */
+/* This CSS file just define some default styles and loaders */
+/* You don't need to include it if you're working with your custom overlay loader element */
+
+.loading-overlay {
+  display: table;
+  opacity: 0.7;
+}
+
+.loading-overlay-content {
+  text-transform: uppercase;
+  letter-spacing: 0.4em;
+  font-size: 1.15em;
+  font-weight: bold;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.loading-overlay.loading-theme-light {
+  background-color: #fff;
+  color: #000;
+}
+
+.loading-overlay.loading-theme-dark {
+  background-color: #000;
+  color: #fff;
+}
