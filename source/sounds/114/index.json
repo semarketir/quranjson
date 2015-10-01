@@ -1,0 +1,41 @@
+{
+	"index": "114",
+	"verse": {
+		"verse_1": {
+			"file": "001.mp3",
+			"size": 27948,
+			"unit": "27,29 KB"
+		},
+		"verse_2": {
+			"file": "002.mp3",
+			"size": 19067,
+			"unit": "18,62 KB"
+		},
+		"verse_3": {
+			"file": "003.mp3",
+			"size": 10577,
+			"unit": "10,33 KB"
+		},
+		"verse_4": {
+			"file": "004.mp3",
+			"size": 17630,
+			"unit": "17,22 KB"
+		},
+		"verse_5": {
+			"file": "005.mp3",
+			"size": 35393,
+			"unit": "34,56 KB"
+		},
+		"verse_6": {
+			"file": "006.mp3",
+			"size": 31083,
+			"unit": "30,35 KB"
+		},
+		"verse_7": {
+			"file": "007.mp3",
+			"size": 31475,
+			"unit": "30,74 KB"
+		}
+	},
+	"count": 7
+}

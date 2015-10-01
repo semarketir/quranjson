@@ -1,0 +1,236 @@
+{
+	"index": "050",
+	"verse": {
+		"verse_1": {
+			"file": "001.mp3",
+			"size": 26642,
+			"unit": "26,02 KB"
+		},
+		"verse_2": {
+			"file": "002.mp3",
+			"size": 43622,
+			"unit": "42,6 KB"
+		},
+		"verse_3": {
+			"file": "003.mp3",
+			"size": 69483,
+			"unit": "67,85 KB"
+		},
+		"verse_4": {
+			"file": "004.mp3",
+			"size": 40879,
+			"unit": "39,92 KB"
+		},
+		"verse_5": {
+			"file": "005.mp3",
+			"size": 48455,
+			"unit": "47,32 KB"
+		},
+		"verse_6": {
+			"file": "006.mp3",
+			"size": 52242,
+			"unit": "51,02 KB"
+		},
+		"verse_7": {
+			"file": "007.mp3",
+			"size": 80977,
+			"unit": "79,08 KB"
+		},
+		"verse_8": {
+			"file": "008.mp3",
+			"size": 78365,
+			"unit": "76,53 KB"
+		},
+		"verse_9": {
+			"file": "009.mp3",
+			"size": 31997,
+			"unit": "31,25 KB"
+		},
+		"verse_10": {
+			"file": "010.mp3",
+			"size": 85679,
+			"unit": "83,67 KB"
+		},
+		"verse_11": {
+			"file": "011.mp3",
+			"size": 30430,
+			"unit": "29,72 KB"
+		},
+		"verse_12": {
+			"file": "012.mp3",
+			"size": 46757,
+			"unit": "45,66 KB"
+		},
+		"verse_13": {
+			"file": "013.mp3",
+			"size": 36177,
+			"unit": "35,33 KB"
+		},
+		"verse_14": {
+			"file": "014.mp3",
+			"size": 25597,
+			"unit": "25 KB"
+		},
+		"verse_15": {
+			"file": "015.mp3",
+			"size": 51720,
+			"unit": "50,51 KB"
+		},
+		"verse_16": {
+			"file": "016.mp3",
+			"size": 45450,
+			"unit": "44,38 KB"
+		},
+		"verse_17": {
+			"file": "017.mp3",
+			"size": 66349,
+			"unit": "64,79 KB"
+		},
+		"verse_18": {
+			"file": "018.mp3",
+			"size": 41271,
+			"unit": "40,3 KB"
+		},
+		"verse_19": {
+			"file": "019.mp3",
+			"size": 37091,
+			"unit": "36,22 KB"
+		},
+		"verse_20": {
+			"file": "020.mp3",
+			"size": 55116,
+			"unit": "53,82 KB"
+		},
+		"verse_21": {
+			"file": "021.mp3",
+			"size": 29646,
+			"unit": "28,95 KB"
+		},
+		"verse_22": {
+			"file": "022.mp3",
+			"size": 42708,
+			"unit": "41,71 KB"
+		},
+		"verse_23": {
+			"file": "023.mp3",
+			"size": 83589,
+			"unit": "81,63 KB"
+		},
+		"verse_24": {
+			"file": "024.mp3",
+			"size": 30038,
+			"unit": "29,33 KB"
+		},
+		"verse_25": {
+			"file": "025.mp3",
+			"size": 30169,
+			"unit": "29,46 KB"
+		},
+		"verse_26": {
+			"file": "026.mp3",
+			"size": 30430,
+			"unit": "29,72 KB"
+		},
+		"verse_27": {
+			"file": "027.mp3",
+			"size": 45581,
+			"unit": "44,51 KB"
+		},
+		"verse_28": {
+			"file": "028.mp3",
+			"size": 56814,
+			"unit": "55,48 KB"
+		},
+		"verse_29": {
+			"file": "029.mp3",
+			"size": 41009,
+			"unit": "40,05 KB"
+		},
+		"verse_30": {
+			"file": "030.mp3",
+			"size": 47018,
+			"unit": "45,92 KB"
+		},
+		"verse_31": {
+			"file": "031.mp3",
+			"size": 43230,
+			"unit": "42,22 KB"
+		},
+		"verse_32": {
+			"file": "032.mp3",
+			"size": 35655,
+			"unit": "34,82 KB"
+		},
+		"verse_33": {
+			"file": "033.mp3",
+			"size": 31475,
+			"unit": "30,74 KB"
+		},
+		"verse_34": {
+			"file": "034.mp3",
+			"size": 39834,
+			"unit": "38,9 KB"
+		},
+		"verse_35": {
+			"file": "035.mp3",
+			"size": 32258,
+			"unit": "31,5 KB"
+		},
+		"verse_36": {
+			"file": "036.mp3",
+			"size": 38006,
+			"unit": "37,12 KB"
+		},
+		"verse_37": {
+			"file": "037.mp3",
+			"size": 85287,
+			"unit": "83,29 KB"
+		},
+		"verse_38": {
+			"file": "038.mp3",
+			"size": 47932,
+			"unit": "46,81 KB"
+		},
+		"verse_39": {
+			"file": "039.mp3",
+			"size": 73793,
+			"unit": "72,06 KB"
+		},
+		"verse_40": {
+			"file": "040.mp3",
+			"size": 49761,
+			"unit": "48,59 KB"
+		},
+		"verse_41": {
+			"file": "041.mp3",
+			"size": 27818,
+			"unit": "27,17 KB"
+		},
+		"verse_42": {
+			"file": "042.mp3",
+			"size": 38920,
+			"unit": "38,01 KB"
+		},
+		"verse_43": {
+			"file": "043.mp3",
+			"size": 36046,
+			"unit": "35,2 KB"
+		},
+		"verse_44": {
+			"file": "044.mp3",
+			"size": 31867,
+			"unit": "31,12 KB"
+		},
+		"verse_45": {
+			"file": "045.mp3",
+			"size": 44928,
+			"unit": "43,88 KB"
+		},
+		"verse_46": {
+			"file": "046.mp3",
+			"size": 82544,
+			"unit": "80,61 KB"
+		}
+	},
+	"count": 46
+}

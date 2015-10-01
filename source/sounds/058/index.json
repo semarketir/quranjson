@@ -1,0 +1,121 @@
+{
+	"index": "058",
+	"verse": {
+		"verse_1": {
+			"file": "001.mp3",
+			"size": 21026,
+			"unit": "20,53 KB"
+		},
+		"verse_2": {
+			"file": "002.mp3",
+			"size": 94822,
+			"unit": "92,6 KB"
+		},
+		"verse_3": {
+			"file": "003.mp3",
+			"size": 147458,
+			"unit": "144 KB"
+		},
+		"verse_4": {
+			"file": "004.mp3",
+			"size": 143802,
+			"unit": "140,43 KB"
+		},
+		"verse_5": {
+			"file": "005.mp3",
+			"size": 145107,
+			"unit": "141,71 KB"
+		},
+		"verse_6": {
+			"file": "006.mp3",
+			"size": 132700,
+			"unit": "129,59 KB"
+		},
+		"verse_7": {
+			"file": "007.mp3",
+			"size": 86593,
+			"unit": "84,56 KB"
+		},
+		"verse_8": {
+			"file": "008.mp3",
+			"size": 205320,
+			"unit": "200,51 KB"
+		},
+		"verse_9": {
+			"file": "009.mp3",
+			"size": 194218,
+			"unit": "189,67 KB"
+		},
+		"verse_10": {
+			"file": "010.mp3",
+			"size": 116242,
+			"unit": "113,52 KB"
+		},
+		"verse_11": {
+			"file": "011.mp3",
+			"size": 99916,
+			"unit": "97,57 KB"
+		},
+		"verse_12": {
+			"file": "012.mp3",
+			"size": 160650,
+			"unit": "156,88 KB"
+		},
+		"verse_13": {
+			"file": "013.mp3",
+			"size": 116373,
+			"unit": "113,65 KB"
+		},
+		"verse_14": {
+			"file": "014.mp3",
+			"size": 120944,
+			"unit": "118,11 KB"
+		},
+		"verse_15": {
+			"file": "015.mp3",
+			"size": 98088,
+			"unit": "95,79 KB"
+		},
+		"verse_16": {
+			"file": "016.mp3",
+			"size": 63605,
+			"unit": "62,11 KB"
+		},
+		"verse_17": {
+			"file": "017.mp3",
+			"size": 55247,
+			"unit": "53,95 KB"
+		},
+		"verse_18": {
+			"file": "018.mp3",
+			"size": 82675,
+			"unit": "80,74 KB"
+		},
+		"verse_19": {
+			"file": "019.mp3",
+			"size": 92079,
+			"unit": "89,92 KB"
+		},
+		"verse_20": {
+			"file": "020.mp3",
+			"size": 91556,
+			"unit": "89,41 KB"
+		},
+		"verse_21": {
+			"file": "021.mp3",
+			"size": 54071,
+			"unit": "52,8 KB"
+		},
+		"verse_22": {
+			"file": "022.mp3",
+			"size": 48847,
+			"unit": "47,7 KB"
+		},
+		"verse_23": {
+			"file": "023.mp3",
+			"size": 276634,
+			"unit": "270,15 KB"
+		}
+	},
+	"count": 23
+}

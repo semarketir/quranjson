@@ -20,6 +20,18 @@
 ## Pages ( Image / JPG ) Format
 - pages/pages_PAGENUMBER.json
 
+## Sounds
+- sounds/002/001.mp3
+- sounds/002/002.mp3
+- sounds/002/003.mp3
+
+## Sounds Index
+- sounds/001/index.json
+
+## Sounds Format
+- sounds/SURAHNUMBER/VERSENUMBER_OR_AYATNUMBER.mp3
+- sounds/SURAHNUMBER/index.json
+
 ## Translations
 - translations/id/id_translation_1.json
 - translations/id/id_translation_2.json

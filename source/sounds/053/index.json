@@ -1,0 +1,321 @@
+{
+	"index": "053",
+	"verse": {
+		"verse_1": {
+			"file": "001.mp3",
+			"size": 21026,
+			"unit": "20,53 KB"
+		},
+		"verse_2": {
+			"file": "002.mp3",
+			"size": 18675,
+			"unit": "18,24 KB"
+		},
+		"verse_3": {
+			"file": "003.mp3",
+			"size": 26773,
+			"unit": "26,15 KB"
+		},
+		"verse_4": {
+			"file": "004.mp3",
+			"size": 23900,
+			"unit": "23,34 KB"
+		},
+		"verse_5": {
+			"file": "005.mp3",
+			"size": 25989,
+			"unit": "25,38 KB"
+		},
+		"verse_6": {
+			"file": "006.mp3",
+			"size": 21940,
+			"unit": "21,43 KB"
+		},
+		"verse_7": {
+			"file": "007.mp3",
+			"size": 18022,
+			"unit": "17,6 KB"
+		},
+		"verse_8": {
+			"file": "008.mp3",
+			"size": 15148,
+			"unit": "14,79 KB"
+		},
+		"verse_9": {
+			"file": "009.mp3",
+			"size": 17500,
+			"unit": "17,09 KB"
+		},
+		"verse_10": {
+			"file": "010.mp3",
+			"size": 25205,
+			"unit": "24,61 KB"
+		},
+		"verse_11": {
+			"file": "011.mp3",
+			"size": 34479,
+			"unit": "33,67 KB"
+		},
+		"verse_12": {
+			"file": "012.mp3",
+			"size": 20635,
+			"unit": "20,15 KB"
+		},
+		"verse_13": {
+			"file": "013.mp3",
+			"size": 24421,
+			"unit": "23,85 KB"
+		},
+		"verse_14": {
+			"file": "014.mp3",
+			"size": 20896,
+			"unit": "20,41 KB"
+		},
+		"verse_15": {
+			"file": "015.mp3",
+			"size": 21548,
+			"unit": "21,04 KB"
+		},
+		"verse_16": {
+			"file": "016.mp3",
+			"size": 24814,
+			"unit": "24,23 KB"
+		},
+		"verse_17": {
+			"file": "017.mp3",
+			"size": 23638,
+			"unit": "23,08 KB"
+		},
+		"verse_18": {
+			"file": "018.mp3",
+			"size": 21026,
+			"unit": "20,53 KB"
+		},
+		"verse_19": {
+			"file": "019.mp3",
+			"size": 27557,
+			"unit": "26,91 KB"
+		},
+		"verse_20": {
+			"file": "020.mp3",
+			"size": 21548,
+			"unit": "21,04 KB"
+		},
+		"verse_21": {
+			"file": "021.mp3",
+			"size": 21287,
+			"unit": "20,79 KB"
+		},
+		"verse_22": {
+			"file": "022.mp3",
+			"size": 22202,
+			"unit": "21,68 KB"
+		},
+		"verse_23": {
+			"file": "023.mp3",
+			"size": 23246,
+			"unit": "22,7 KB"
+		},
+		"verse_24": {
+			"file": "024.mp3",
+			"size": 201532,
+			"unit": "196,81 KB"
+		},
+		"verse_25": {
+			"file": "025.mp3",
+			"size": 30169,
+			"unit": "29,46 KB"
+		},
+		"verse_26": {
+			"file": "026.mp3",
+			"size": 21940,
+			"unit": "21,43 KB"
+		},
+		"verse_27": {
+			"file": "027.mp3",
+			"size": 116373,
+			"unit": "113,65 KB"
+		},
+		"verse_28": {
+			"file": "028.mp3",
+			"size": 66610,
+			"unit": "65,05 KB"
+		},
+		"verse_29": {
+			"file": "029.mp3",
+			"size": 74838,
+			"unit": "73,08 KB"
+		},
+		"verse_30": {
+			"file": "030.mp3",
+			"size": 53287,
+			"unit": "52,04 KB"
+		},
+		"verse_31": {
+			"file": "031.mp3",
+			"size": 75883,
+			"unit": "74,1 KB"
+		},
+		"verse_32": {
+			"file": "032.mp3",
+			"size": 86332,
+			"unit": "84,31 KB"
+		},
+		"verse_33": {
+			"file": "033.mp3",
+			"size": 180373,
+			"unit": "176,15 KB"
+		},
+		"verse_34": {
+			"file": "034.mp3",
+			"size": 22071,
+			"unit": "21,55 KB"
+		},
+		"verse_35": {
+			"file": "035.mp3",
+			"size": 21418,
+			"unit": "20,92 KB"
+		},
+		"verse_36": {
+			"file": "036.mp3",
+			"size": 26512,
+			"unit": "25,89 KB"
+		},
+		"verse_37": {
+			"file": "037.mp3",
+			"size": 25858,
+			"unit": "25,25 KB"
+		},
+		"verse_38": {
+			"file": "038.mp3",
+			"size": 19981,
+			"unit": "19,51 KB"
+		},
+		"verse_39": {
+			"file": "039.mp3",
+			"size": 25728,
+			"unit": "25,13 KB"
+		},
+		"verse_40": {
+			"file": "040.mp3",
+			"size": 28994,
+			"unit": "28,31 KB"
+		},
+		"verse_41": {
+			"file": "041.mp3",
+			"size": 21809,
+			"unit": "21,3 KB"
+		},
+		"verse_42": {
+			"file": "042.mp3",
+			"size": 30953,
+			"unit": "30,23 KB"
+		},
+		"verse_43": {
+			"file": "043.mp3",
+			"size": 24813,
+			"unit": "24,23 KB"
+		},
+		"verse_44": {
+			"file": "044.mp3",
+			"size": 23639,
+			"unit": "23,08 KB"
+		},
+		"verse_45": {
+			"file": "045.mp3",
+			"size": 25989,
+			"unit": "25,38 KB"
+		},
+		"verse_46": {
+			"file": "046.mp3",
+			"size": 30691,
+			"unit": "29,97 KB"
+		},
+		"verse_47": {
+			"file": "047.mp3",
+			"size": 20242,
+			"unit": "19,77 KB"
+		},
+		"verse_48": {
+			"file": "048.mp3",
+			"size": 25859,
+			"unit": "25,25 KB"
+		},
+		"verse_49": {
+			"file": "049.mp3",
+			"size": 23377,
+			"unit": "22,83 KB"
+		},
+		"verse_50": {
+			"file": "050.mp3",
+			"size": 22201,
+			"unit": "21,68 KB"
+		},
+		"verse_51": {
+			"file": "051.mp3",
+			"size": 28210,
+			"unit": "27,55 KB"
+		},
+		"verse_52": {
+			"file": "052.mp3",
+			"size": 20373,
+			"unit": "19,9 KB"
+		},
+		"verse_53": {
+			"file": "053.mp3",
+			"size": 42969,
+			"unit": "41,96 KB"
+		},
+		"verse_54": {
+			"file": "054.mp3",
+			"size": 17107,
+			"unit": "16,71 KB"
+		},
+		"verse_55": {
+			"file": "055.mp3",
+			"size": 16847,
+			"unit": "16,45 KB"
+		},
+		"verse_56": {
+			"file": "056.mp3",
+			"size": 29124,
+			"unit": "28,44 KB"
+		},
+		"verse_57": {
+			"file": "057.mp3",
+			"size": 29777,
+			"unit": "29,08 KB"
+		},
+		"verse_58": {
+			"file": "058.mp3",
+			"size": 13973,
+			"unit": "13,65 KB"
+		},
+		"verse_59": {
+			"file": "059.mp3",
+			"size": 27295,
+			"unit": "26,66 KB"
+		},
+		"verse_60": {
+			"file": "060.mp3",
+			"size": 26250,
+			"unit": "25,63 KB"
+		},
+		"verse_61": {
+			"file": "061.mp3",
+			"size": 21810,
+			"unit": "21,3 KB"
+		},
+		"verse_62": {
+			"file": "062.mp3",
+			"size": 20895,
+			"unit": "20,41 KB"
+		},
+		"verse_63": {
+			"file": "063.mp3",
+			"size": 12667,
+			"unit": "12,37 KB"
+		}
+	},
+	"count": 63
+}

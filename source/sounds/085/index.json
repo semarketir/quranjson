@@ -1,0 +1,121 @@
+{
+	"index": "085",
+	"verse": {
+		"verse_1": {
+			"file": "001.mp3",
+			"size": 25990,
+			"unit": "25,38 KB"
+		},
+		"verse_2": {
+			"file": "002.mp3",
+			"size": 21156,
+			"unit": "20,66 KB"
+		},
+		"verse_3": {
+			"file": "003.mp3",
+			"size": 10577,
+			"unit": "10,33 KB"
+		},
+		"verse_4": {
+			"file": "004.mp3",
+			"size": 28210,
+			"unit": "27,55 KB"
+		},
+		"verse_5": {
+			"file": "005.mp3",
+			"size": 16063,
+			"unit": "15,69 KB"
+		},
+		"verse_6": {
+			"file": "006.mp3",
+			"size": 15279,
+			"unit": "14,92 KB"
+		},
+		"verse_7": {
+			"file": "007.mp3",
+			"size": 21156,
+			"unit": "20,66 KB"
+		},
+		"verse_8": {
+			"file": "008.mp3",
+			"size": 34218,
+			"unit": "33,42 KB"
+		},
+		"verse_9": {
+			"file": "009.mp3",
+			"size": 54985,
+			"unit": "53,7 KB"
+		},
+		"verse_10": {
+			"file": "010.mp3",
+			"size": 58642,
+			"unit": "57,27 KB"
+		},
+		"verse_11": {
+			"file": "011.mp3",
+			"size": 97043,
+			"unit": "94,77 KB"
+		},
+		"verse_12": {
+			"file": "012.mp3",
+			"size": 81107,
+			"unit": "79,21 KB"
+		},
+		"verse_13": {
+			"file": "013.mp3",
+			"size": 17761,
+			"unit": "17,34 KB"
+		},
+		"verse_14": {
+			"file": "014.mp3",
+			"size": 17630,
+			"unit": "17,22 KB"
+		},
+		"verse_15": {
+			"file": "015.mp3",
+			"size": 12536,
+			"unit": "12,24 KB"
+		},
+		"verse_16": {
+			"file": "016.mp3",
+			"size": 29124,
+			"unit": "28,44 KB"
+		},
+		"verse_17": {
+			"file": "017.mp3",
+			"size": 19981,
+			"unit": "19,51 KB"
+		},
+		"verse_18": {
+			"file": "018.mp3",
+			"size": 14887,
+			"unit": "14,54 KB"
+		},
+		"verse_19": {
+			"file": "019.mp3",
+			"size": 18806,
+			"unit": "18,37 KB"
+		},
+		"verse_20": {
+			"file": "020.mp3",
+			"size": 20634,
+			"unit": "20,15 KB"
+		},
+		"verse_21": {
+			"file": "021.mp3",
+			"size": 33434,
+			"unit": "32,65 KB"
+		},
+		"verse_22": {
+			"file": "022.mp3",
+			"size": 24422,
+			"unit": "23,85 KB"
+		},
+		"verse_23": {
+			"file": "023.mp3",
+			"size": 17761,
+			"unit": "17,34 KB"
+		}
+	},
+	"count": 23
+}

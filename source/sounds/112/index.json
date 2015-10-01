@@ -1,0 +1,31 @@
+{
+	"index": "112",
+	"verse": {
+		"verse_1": {
+			"file": "001.mp3",
+			"size": 26512,
+			"unit": "25,89 KB"
+		},
+		"verse_2": {
+			"file": "002.mp3",
+			"size": 14887,
+			"unit": "14,54 KB"
+		},
+		"verse_3": {
+			"file": "003.mp3",
+			"size": 10577,
+			"unit": "10,33 KB"
+		},
+		"verse_4": {
+			"file": "004.mp3",
+			"size": 12536,
+			"unit": "12,24 KB"
+		},
+		"verse_5": {
+			"file": "005.mp3",
+			"size": 17108,
+			"unit": "16,71 KB"
+		}
+	},
+	"count": 5
+}
