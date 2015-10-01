@@ -1,3 +1,5 @@
+![cover](https://cloud.githubusercontent.com/assets/1286932/10229872/672ca302-68a4-11e5-8acb-1dcdbf87e1f4.jpg)
+
 ## Quran JSON
 > 114 surah, 30 Juz
 
@@ -39,6 +41,10 @@
 
 ## Translations Format
 - translations/LANGUAGE/LANGUAGE_translation_SURAHNUMBER.json
+
+## HOST : Raw
+- https://raw.githubusercontent.com/semarketir/quranjson/master/source/*
+- https://rawgit.com/semarketir/quranjson/master/source/*
 
 ## Example : Raw
 - [https://raw.githubusercontent.com/semarketir/quranjson/master/source/surah.json](https://raw.githubusercontent.com/semarketir/quranjson/master/source/surah.json)
