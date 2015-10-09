@@ -1,7 +1,7 @@
 ![cover](https://cloud.githubusercontent.com/assets/1286932/10229872/672ca302-68a4-11e5-8acb-1dcdbf87e1f4.jpg)
 
 ## Quran JSON
-> 114 surah, 30 Juz
+> 6236 verse, 114 surah, 30 Juz
 
 ## Surah
 - surah.json
