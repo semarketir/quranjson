@@ -1,10 +1,12 @@
 {
-	"index": "106",
-	"verse": {
-		"verse_1": "For the security of Quraish.",
-		"verse_2": "Their security during winter and summer journeys.",
-		"verse_3": "Let them worship the Lord of this House.",
-		"verse_4": "Who has fed them against hunger, and has secured them against fear."
-	},
-	"count": "4"
+    "name": "Quraisy",
+    "index": "106",
+    "verse": {
+        "verse_0": "In the name of God, the Gracious, the Merciful.",
+        "verse_1": "For the security of Quraish.",
+        "verse_2": "Their security during winter and summer journeys.",
+        "verse_3": "Let them worship the Lord of this House.",
+        "verse_4": "Who has fed them against hunger, and has secured them against fear."
+    },
+    "count": "4"
 }

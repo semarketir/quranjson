@@ -1,9 +1,11 @@
 {
-	"index": "103",
-	"verse": {
-		"verse_1": "By time.",
-		"verse_2": "The human being is in loss.",
-		"verse_3": "Except those who believe, and do good works, and encourage truth, and recommend patience."
-	},
-	"count": "3"
+    "name": "al-Ashr",
+    "index": "103",
+    "verse": {
+        "verse_0": "In the name of God, the Gracious, the Merciful.",
+        "verse_1": "By time.",
+        "verse_2": "The human being is in loss.",
+        "verse_3": "Except those who believe, and do good works, and encourage truth, and recommend patience."
+    },
+    "count": "3"
 }

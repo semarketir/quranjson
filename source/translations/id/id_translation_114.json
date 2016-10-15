@@ -1,12 +1,14 @@
 {
-	"index": "114",
-	"verse": {
-		"verse_1": "Katakanlah: \"Aku berlindung kepada Tuhan (yang memelihara dan menguasai) manusia.",
-		"verse_2": "Raja manusia.",
-		"verse_3": "Sembahan manusia.",
-		"verse_4": "Dari kejahatan (bisikan) syaitan yang biasa bersembunyi,",
-		"verse_5": "yang membisikkan (kejahatan) ke dalam dada manusia,",
-		"verse_6": "dari (golongan) jin dan manusia."
-	},
-	"count": "6"
+    "name": "an-Nas",
+    "index": "114",
+    "verse": {
+        "verse_0": "Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang.",
+        "verse_1": "Katakanlah: \"Aku berlindung kepada Tuhan (yang memelihara dan menguasai) manusia.",
+        "verse_2": "Raja manusia.",
+        "verse_3": "Sembahan manusia.",
+        "verse_4": "Dari kejahatan (bisikan) syaitan yang biasa bersembunyi,",
+        "verse_5": "yang membisikkan (kejahatan) ke dalam dada manusia,",
+        "verse_6": "dari (golongan) jin dan manusia."
+    },
+    "count": "6"
 }

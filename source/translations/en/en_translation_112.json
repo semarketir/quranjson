@@ -1,10 +1,12 @@
 {
-	"index": "112",
-	"verse": {
-		"verse_1": "Say, \"He is God, the One.",
-		"verse_2": "God, the Absolute.",
-		"verse_3": "He begets not, nor was He begotten.",
-		"verse_4": "And there is nothing comparable to Him.\""
-	},
-	"count": "4"
+    "name": "al-Ikhlash",
+    "index": "112",
+    "verse": {
+        "verse_0": "In the name of God, the Gracious, the Merciful.",
+        "verse_1": "Say, \"He is God, the One.",
+        "verse_2": "God, the Absolute.",
+        "verse_3": "He begets not, nor was He begotten.",
+        "verse_4": "And there is nothing comparable to Him.\""
+    },
+    "count": "4"
 }

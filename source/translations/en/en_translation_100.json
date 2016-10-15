@@ -1,17 +1,19 @@
 {
-	"index": "100",
-	"verse": {
-		"verse_1": "By the racers panting.",
-		"verse_2": "Igniting sparks.",
-		"verse_3": "Raiding at dawn.",
-		"verse_4": "Raising clouds of dust.",
-		"verse_5": "Storming into the midst.",
-		"verse_6": "Indeed, the human being is ungrateful to his Lord.",
-		"verse_7": "And he bears witness to that.",
-		"verse_8": "And he is fierce in his love of wealth.",
-		"verse_9": "Does he not know? When the contents of the graves are scattered around.",
-		"verse_10": "And the contents of the hearts are obtained.",
-		"verse_11": "Their Lord, on that Day, is fully informed of them."
-	},
-	"count": "11"
+    "name": "al-'Adiyat ",
+    "index": "100",
+    "verse": {
+        "verse_0": "In the name of God, the Gracious, the Merciful.",
+        "verse_1": "By the racers panting.",
+        "verse_2": "Igniting sparks.",
+        "verse_3": "Raiding at dawn.",
+        "verse_4": "Raising clouds of dust.",
+        "verse_5": "Storming into the midst.",
+        "verse_6": "Indeed, the human being is ungrateful to his Lord.",
+        "verse_7": "And he bears witness to that.",
+        "verse_8": "And he is fierce in his love of wealth.",
+        "verse_9": "Does he not know? When the contents of the graves are scattered around.",
+        "verse_10": "And the contents of the hearts are obtained.",
+        "verse_11": "Their Lord, on that Day, is fully informed of them."
+    },
+    "count": "11"
 }

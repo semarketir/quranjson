@@ -1,9 +1,11 @@
 {
-	"index": "110",
-	"verse": {
-		"verse_1": "Apabila telah datang pertolongan Allah dan kemenangan,",
-		"verse_2": "dan kamu lihat manusia masuk agama Allah dengan berbondong-bondong,",
-		"verse_3": "maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampun kepada-Nya. Sesungguhnya Dia adalah Maha Penerima taubat."
-	},
-	"count": "3"
+    "name": "an-Nashr",
+    "index": "110",
+    "verse": {
+        "verse_0": "Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang.",
+        "verse_1": "Apabila telah datang pertolongan Allah dan kemenangan,",
+        "verse_2": "dan kamu lihat manusia masuk agama Allah dengan berbondong-bondong,",
+        "verse_3": "maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampun kepada-Nya. Sesungguhnya Dia adalah Maha Penerima taubat."
+    },
+    "count": "3"
 }

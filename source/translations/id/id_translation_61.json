@@ -1,20 +1,22 @@
 {
-	"index": "061",
-	"verse": {
-		"verse_1": "Telah bertasbih kepada Allah apa saja yang ada di langit dan apa saja yang ada di bumi; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.",
-		"verse_2": "Wahai orang-orang yang beriman, kenapakah kamu mengatakan sesuatu yang tidak kamu kerjakan?",
-		"verse_3": "Amat besar kebencian di sisi Allah bahwa kamu mengatakan apa-apa yang tidak kamu kerjakan.",
-		"verse_4": "Sesungguhnya Allah menyukai orang yang berperang dijalan-Nya dalam barisan yang teratur seakan-akan mereka seperti suatu bangunan yang tersusun kokoh.",
-		"verse_5": "Dan (ingatlah) ketika Musa berkata kepada kaumnya: \"Hai kaumku, mengapa kamu menyakitiku, sedangkan kamu mengetahui bahwa sesungguhnya aku adalah utusan Allah kepadamu?\" Maka tatkala mereka berpaling (dari kebenaran), Allah memalingkan hati mereka; dan Allah tidak memberi petunjuk kepada kaum yang fasik.",
-		"verse_6": "Dan (ingatlah) ketika Isa ibnu Maryam berkata: \"Hai Bani Israil, sesungguhnya aku adalah utusan Allah kepadamu, membenarkan kitab sebelumku, yaitu Taurat, dan memberi khabar gembira dengan (datangnya) seorang Rasul yang akan datang sesudahku, yang namanya Ahmad (Muhammad)\". Maka tatkala rasul itu datang kepada mereka dengan membawa bukti-bukti yang nyata, mereka berkata: \"Ini adalah sihir yang nyata\".",
-		"verse_7": "Dan siapakah yang lebih zalim daripada orang yang mengada-adakan dusta terhadap Allah sedang dia diajak kepada Islam? Dan Allah tidak memberi petunjuk kepada orang-orang zalim.",
-		"verse_8": "Mereka ingin memadamkan cahaya Allah dengan mulut (tipu daya) mereka, tetapi Allah (justru) menyempurnakan cahaya-Nya, walau orang-orang kafir membencinya\".",
-		"verse_9": "Dialah yang mengutus Rasul-Nya dengan membawa petunjuk dan agama yang benar agar Dia memenangkannya di atas segala agama-agama meskipun orang musyrik membenci.",
-		"verse_10": "Hai orang-orang yang beriman, sukakah kamu aku tunjukkan suatu perniagaan yang dapat menyelamatkanmu dari azab yang pedih?",
-		"verse_11": "(yaitu) kamu beriman kepada Allah dan Rasul-Nya dan berjihad di jalan Allah dengan harta dan jiwamu. Itulah yang lebih baik bagimu, jika kamu mengetahui.",
-		"verse_12": "Niscaya Allah akan mengampuni dosa-dosamu dan memasukkanmu ke dalam jannah yang mengalir di bawahnya sungai-sungai; dan (memasukkan kamu) ke tempat tinggal yang baik di dalam jannah 'Adn. Itulah keberuntungan yang besar.",
-		"verse_13": "Dan (ada lagi) karunia yang lain yang kamu sukai (yaitu) pertolongan dari Allah dan kemenangan yang dekat (waktunya). Dan sampaikanlah berita gembira kepada orang-orang yang beriman.",
-		"verse_14": "Hai orang-orang yang beriman, jadilah kamu penolong (agama) Allah sebagaimana Isa ibnu Maryam telah berkata kepada pengikut-pengikutnya yang setia: \"Siapakah yang akan menjadi penolong-penolongku (untuk menegakkan agama) Allah?\" Pengikut-pengikut yang setia itu berkata: \"Kamilah penolong-penolong agama Allah\", lalu segolongan dari Bani Israil beriman dan segolongan lain kafir; maka Kami berikan kekuatan kepada orang-orang yang beriman terhadap musuh-musuh mereka, lalu mereka menjadi orang-orang yang menang."
-	},
-	"count": "14"
+    "name": "ash-Shaff",
+    "index": "061",
+    "verse": {
+        "verse_0": "Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang.",
+        "verse_1": "Telah bertasbih kepada Allah apa saja yang ada di langit dan apa saja yang ada di bumi; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.",
+        "verse_2": "Wahai orang-orang yang beriman, kenapakah kamu mengatakan sesuatu yang tidak kamu kerjakan?",
+        "verse_3": "Amat besar kebencian di sisi Allah bahwa kamu mengatakan apa-apa yang tidak kamu kerjakan.",
+        "verse_4": "Sesungguhnya Allah menyukai orang yang berperang dijalan-Nya dalam barisan yang teratur seakan-akan mereka seperti suatu bangunan yang tersusun kokoh.",
+        "verse_5": "Dan (ingatlah) ketika Musa berkata kepada kaumnya: \"Hai kaumku, mengapa kamu menyakitiku, sedangkan kamu mengetahui bahwa sesungguhnya aku adalah utusan Allah kepadamu?\" Maka tatkala mereka berpaling (dari kebenaran), Allah memalingkan hati mereka; dan Allah tidak memberi petunjuk kepada kaum yang fasik.",
+        "verse_6": "Dan (ingatlah) ketika Isa ibnu Maryam berkata: \"Hai Bani Israil, sesungguhnya aku adalah utusan Allah kepadamu, membenarkan kitab sebelumku, yaitu Taurat, dan memberi khabar gembira dengan (datangnya) seorang Rasul yang akan datang sesudahku, yang namanya Ahmad (Muhammad)\". Maka tatkala rasul itu datang kepada mereka dengan membawa bukti-bukti yang nyata, mereka berkata: \"Ini adalah sihir yang nyata\".",
+        "verse_7": "Dan siapakah yang lebih zalim daripada orang yang mengada-adakan dusta terhadap Allah sedang dia diajak kepada Islam? Dan Allah tidak memberi petunjuk kepada orang-orang zalim.",
+        "verse_8": "Mereka ingin memadamkan cahaya Allah dengan mulut (tipu daya) mereka, tetapi Allah (justru) menyempurnakan cahaya-Nya, walau orang-orang kafir membencinya\".",
+        "verse_9": "Dialah yang mengutus Rasul-Nya dengan membawa petunjuk dan agama yang benar agar Dia memenangkannya di atas segala agama-agama meskipun orang musyrik membenci.",
+        "verse_10": "Hai orang-orang yang beriman, sukakah kamu aku tunjukkan suatu perniagaan yang dapat menyelamatkanmu dari azab yang pedih?",
+        "verse_11": "(yaitu) kamu beriman kepada Allah dan Rasul-Nya dan berjihad di jalan Allah dengan harta dan jiwamu. Itulah yang lebih baik bagimu, jika kamu mengetahui.",
+        "verse_12": "Niscaya Allah akan mengampuni dosa-dosamu dan memasukkanmu ke dalam jannah yang mengalir di bawahnya sungai-sungai; dan (memasukkan kamu) ke tempat tinggal yang baik di dalam jannah 'Adn. Itulah keberuntungan yang besar.",
+        "verse_13": "Dan (ada lagi) karunia yang lain yang kamu sukai (yaitu) pertolongan dari Allah dan kemenangan yang dekat (waktunya). Dan sampaikanlah berita gembira kepada orang-orang yang beriman.",
+        "verse_14": "Hai orang-orang yang beriman, jadilah kamu penolong (agama) Allah sebagaimana Isa ibnu Maryam telah berkata kepada pengikut-pengikutnya yang setia: \"Siapakah yang akan menjadi penolong-penolongku (untuk menegakkan agama) Allah?\" Pengikut-pengikut yang setia itu berkata: \"Kamilah penolong-penolong agama Allah\", lalu segolongan dari Bani Israil beriman dan segolongan lain kafir; maka Kami berikan kekuatan kepada orang-orang yang beriman terhadap musuh-musuh mereka, lalu mereka menjadi orang-orang yang menang."
+    },
+    "count": "14"
 }
