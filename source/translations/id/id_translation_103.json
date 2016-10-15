@@ -1,9 +1,11 @@
 {
-	"index": "103",
-	"verse": {
-		"verse_1": "Demi masa.",
-		"verse_2": "Sesungguhnya manusia itu benar-benar dalam kerugian,",
-		"verse_3": "kecuali orang-orang yang beriman dan mengerjakan amal saleh dan nasehat menasehati supaya mentaati kebenaran dan nasehat menasehati supaya menetapi kesabaran."
-	},
-	"count": "3"
+    "name": "al-Ashr",
+    "index": "103",
+    "verse": {
+        "verse_0": "Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang.",
+        "verse_1": "Demi masa.",
+        "verse_2": "Sesungguhnya manusia itu benar-benar dalam kerugian,",
+        "verse_3": "kecuali orang-orang yang beriman dan mengerjakan amal saleh dan nasehat menasehati supaya mentaati kebenaran dan nasehat menasehati supaya menetapi kesabaran."
+    },
+    "count": "3"
 }

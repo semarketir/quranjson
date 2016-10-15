@@ -1,14 +1,16 @@
 {
-	"index": "102",
-	"verse": {
-		"verse_1": "Abundance distracts you.",
-		"verse_2": "Until you visit the graveyards.",
-		"verse_3": "Indeed, you will know.",
-		"verse_4": "Certainly, you will know.",
-		"verse_5": "If you knew with knowledge of certainty.",
-		"verse_6": "You would see the Inferno.",
-		"verse_7": "Then you will see it with the eye of certainty.",
-		"verse_8": "Then, on that Day, you will be questioned about the Bliss."
-	},
-	"count": "8"
+    "name": "at-Takatsur",
+    "index": "102",
+    "verse": {
+        "verse_0": "In the name of God, the Gracious, the Merciful.",
+        "verse_1": "Abundance distracts you.",
+        "verse_2": "Until you visit the graveyards.",
+        "verse_3": "Indeed, you will know.",
+        "verse_4": "Certainly, you will know.",
+        "verse_5": "If you knew with knowledge of certainty.",
+        "verse_6": "You would see the Inferno.",
+        "verse_7": "Then you will see it with the eye of certainty.",
+        "verse_8": "Then, on that Day, you will be questioned about the Bliss."
+    },
+    "count": "8"
 }

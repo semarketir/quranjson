@@ -1,14 +1,16 @@
 {
-	"index": "099",
-	"verse": {
-		"verse_1": "Apabila bumi digoncangkan dengan goncangan (yang dahsyat),",
-		"verse_2": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,",
-		"verse_3": "dan manusia bertanya: \"Mengapa bumi (menjadi begini)?\",",
-		"verse_4": "pada hari itu bumi menceritakan beritanya,",
-		"verse_5": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) kepadanya.",
-		"verse_6": "Pada hari itu manusia ke luar dari kuburnya dalam keadaan bermacam-macam, supaya diperlihatkan kepada mereka (balasan) pekerjaan mereka,",
-		"verse_7": "Barangsiapa yang mengerjakan kebaikan seberat dzarrahpun, niscaya dia akan melihat (balasan)nya.",
-		"verse_8": "Dan barangsiapa yang mengerjakan kejahatan sebesar dzarrahpun, niscaya dia akan melihat (balasan)nya pula."
-	},
-	"count": "8"
+    "name": "al-Zalzalah",
+    "index": "099",
+    "verse": {
+        "verse_0": "Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang.",
+        "verse_1": "Apabila bumi digoncangkan dengan goncangan (yang dahsyat),",
+        "verse_2": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,",
+        "verse_3": "dan manusia bertanya: \"Mengapa bumi (menjadi begini)?\",",
+        "verse_4": "pada hari itu bumi menceritakan beritanya,",
+        "verse_5": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) kepadanya.",
+        "verse_6": "Pada hari itu manusia ke luar dari kuburnya dalam keadaan bermacam-macam, supaya diperlihatkan kepada mereka (balasan) pekerjaan mereka,",
+        "verse_7": "Barangsiapa yang mengerjakan kebaikan seberat dzarrahpun, niscaya dia akan melihat (balasan)nya.",
+        "verse_8": "Dan barangsiapa yang mengerjakan kejahatan sebesar dzarrahpun, niscaya dia akan melihat (balasan)nya pula."
+    },
+    "count": "8"
 }

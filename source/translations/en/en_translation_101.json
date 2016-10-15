@@ -1,17 +1,19 @@
 {
-	"index": "101",
-	"verse": {
-		"verse_1": "The Shocker.",
-		"verse_2": "What is the Shocker?",
-		"verse_3": "What will explain to you what the Shocker is?",
-		"verse_4": "The Day when the people will be like scattered moths.",
-		"verse_5": "And the mountains will be like tufted wool.",
-		"verse_6": "As for he whose scales are heavy.",
-		"verse_7": "He will be in a pleasant life.",
-		"verse_8": "But as for he whose scales are light.",
-		"verse_9": "His home is the Abyss.",
-		"verse_10": "Do you know what it is?",
-		"verse_11": "A Raging Fire."
-	},
-	"count": "11"
+    "name": "al-Qari'ah",
+    "index": "101",
+    "verse": {
+        "verse_0": "In the name of God, the Gracious, the Merciful.",
+        "verse_1": "The Shocker.",
+        "verse_2": "What is the Shocker?",
+        "verse_3": "What will explain to you what the Shocker is?",
+        "verse_4": "The Day when the people will be like scattered moths.",
+        "verse_5": "And the mountains will be like tufted wool.",
+        "verse_6": "As for he whose scales are heavy.",
+        "verse_7": "He will be in a pleasant life.",
+        "verse_8": "But as for he whose scales are light.",
+        "verse_9": "His home is the Abyss.",
+        "verse_10": "Do you know what it is?",
+        "verse_11": "A Raging Fire."
+    },
+    "count": "11"
 }
