@@ -1,11 +1,13 @@
 {
-	"index": "097",
-	"verse": {
-		"verse_1": "We sent it down on the Night of Decree.",
-		"verse_2": "But what will convey to you what the Night of Decree is?",
-		"verse_3": "The Night of Decree is better than a thousand months.",
-		"verse_4": "In it descend the angels and the Spirit, by the leave of their Lord, with every command.",
-		"verse_5": "Peace it is; until the rise of dawn."
-	},
-	"count": "5"
+    "name": "al-Qadr",
+    "index": "097",
+    "verse": {
+        "verse_0": "In the name of God, the Gracious, the Merciful.",
+        "verse_1": "We sent it down on the Night of Decree.",
+        "verse_2": "But what will convey to you what the Night of Decree is?",
+        "verse_3": "The Night of Decree is better than a thousand months.",
+        "verse_4": "In it descend the angels and the Spirit, by the leave of their Lord, with every command.",
+        "verse_5": "Peace it is; until the rise of dawn."
+    },
+    "count": "5"
 }

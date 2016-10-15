@@ -1,17 +1,19 @@
 {
-	"index": "093",
-	"verse": {
-		"verse_1": "By the morning light.",
-		"verse_2": "And the night as it settles.",
-		"verse_3": "Your Lord did not abandon you, nor did He forget.",
-		"verse_4": "The Hereafter is better for you than the First.",
-		"verse_5": "And your Lord will give you, and you will be satisfied.",
-		"verse_6": "Did He not find you orphaned, and sheltered you?",
-		"verse_7": "And found you wandering, and guided you.",
-		"verse_8": "And found you in need, and enriched you?",
-		"verse_9": "Therefore, do not mistreat the orphan.",
-		"verse_10": "Nor rebuff the seeker.",
-		"verse_11": "But proclaim the blessings of your Lord."
-	},
-	"count": "11"
+    "name": "ad-Dhuha",
+    "index": "093",
+    "verse": {
+        "verse_0": "In the name of God, the Gracious, the Merciful.",
+        "verse_1": "By the morning light.",
+        "verse_2": "And the night as it settles.",
+        "verse_3": "Your Lord did not abandon you, nor did He forget.",
+        "verse_4": "The Hereafter is better for you than the First.",
+        "verse_5": "And your Lord will give you, and you will be satisfied.",
+        "verse_6": "Did He not find you orphaned, and sheltered you?",
+        "verse_7": "And found you wandering, and guided you.",
+        "verse_8": "And found you in need, and enriched you?",
+        "verse_9": "Therefore, do not mistreat the orphan.",
+        "verse_10": "Nor rebuff the seeker.",
+        "verse_11": "But proclaim the blessings of your Lord."
+    },
+    "count": "11"
 }

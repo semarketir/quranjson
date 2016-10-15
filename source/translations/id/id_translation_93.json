@@ -1,17 +1,19 @@
 {
-	"index": "093",
-	"verse": {
-		"verse_1": "Demi waktu matahari sepenggalahan naik,",
-		"verse_2": "dan demi malam apabila telah sunyi (gelap),",
-		"verse_3": "Tuhanmu tiada meninggalkan kamu dan tiada (pula) benci kepadamu.",
-		"verse_4": "Dan sesungguhnya hari kemudian itu lebih baik bagimu daripada yang sekarang (permulaan).",
-		"verse_5": "Dan kelak Tuhanmu pasti memberikan karunia-Nya kepadamu, lalu (hati) kamu menjadi puas.",
-		"verse_6": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungimu?",
-		"verse_7": "Dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk.",
-		"verse_8": "Dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan.",
-		"verse_9": "Sebab itu, terhadap anak yatim janganlah kamu berlaku sewenang-wenang.",
-		"verse_10": "Dan terhadap orang yang minta-minta, janganlah kamu menghardiknya.",
-		"verse_11": "Dan terhadap nikmat Tuhanmu, maka hendaklah kamu siarkan."
-	},
-	"count": "11"
+    "name": "ad-Dhuha",
+    "index": "093",
+    "verse": {
+        "verse_0": "Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang.",
+        "verse_1": "Demi waktu matahari sepenggalahan naik,",
+        "verse_2": "dan demi malam apabila telah sunyi (gelap),",
+        "verse_3": "Tuhanmu tiada meninggalkan kamu dan tiada (pula) benci kepadamu.",
+        "verse_4": "Dan sesungguhnya hari kemudian itu lebih baik bagimu daripada yang sekarang (permulaan).",
+        "verse_5": "Dan kelak Tuhanmu pasti memberikan karunia-Nya kepadamu, lalu (hati) kamu menjadi puas.",
+        "verse_6": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungimu?",
+        "verse_7": "Dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk.",
+        "verse_8": "Dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan.",
+        "verse_9": "Sebab itu, terhadap anak yatim janganlah kamu berlaku sewenang-wenang.",
+        "verse_10": "Dan terhadap orang yang minta-minta, janganlah kamu menghardiknya.",
+        "verse_11": "Dan terhadap nikmat Tuhanmu, maka hendaklah kamu siarkan."
+    },
+    "count": "11"
 }

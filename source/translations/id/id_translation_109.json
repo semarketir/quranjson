@@ -1,12 +1,14 @@
 {
-	"index": "109",
-	"verse": {
-		"verse_1": "Katakanlah: \"Hai orang-orang kafir,",
-		"verse_2": "Aku tidak akan menyembah apa yang kamu sembah.",
-		"verse_3": "Dan kamu bukan penyembah Tuhan yang aku sembah.",
-		"verse_4": "Dan aku tidak pernah menjadi penyembah apa yang kamu sembah,",
-		"verse_5": "dan kamu tidak pernah (pula) menjadi penyembah Tuhan yang aku sembah.",
-		"verse_6": "Untukmu agamamu, dan untukkulah, agamaku\"."
-	},
-	"count": "6"
+    "name": "al-Kafirun",
+    "index": "109",
+    "verse": {
+        "verse_0": "Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang.",
+        "verse_1": "Katakanlah: \"Hai orang-orang kafir,",
+        "verse_2": "Aku tidak akan menyembah apa yang kamu sembah.",
+        "verse_3": "Dan kamu bukan penyembah Tuhan yang aku sembah.",
+        "verse_4": "Dan aku tidak pernah menjadi penyembah apa yang kamu sembah,",
+        "verse_5": "dan kamu tidak pernah (pula) menjadi penyembah Tuhan yang aku sembah.",
+        "verse_6": "Untukmu agamamu, dan untukkulah, agamaku\"."
+    },
+    "count": "6"
 }
