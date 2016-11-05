@@ -3,6 +3,26 @@
 ### Quran JSON
 > 6236 verses, 114 surah, 30 Juz'
 
+
+### Folder structure for Qur'an JSON
+```sh
+.
+├── LICENSE
+├── README.md
+└── source
+    ├── audio
+    │   └── <surah_index:001-144>
+    │       ├── <verse:1-n>.mp3
+    │       └── index.json
+    ├── juz.json
+    ├── surah
+    │   └── surah_<number:1-144>.json
+    ├── surah.json
+    └── translation
+        └── <language_code:e_g:id-en-etc>
+            └── <language_code>_translation_<number_of_surah:1-144>.json
+```
+
 ##### Surah
 - surah.json
 
@@ -14,36 +34,28 @@
 - surah/surah_2.json
 - surah/surah_n.json
 
-##### Surah ( Arabic ) Format
+##### Surah ( Arabic ) format
 - surah/surah_SURAHNUMBER.json
 
-##### Pages ( Image / JPG )
-- pages/pages_1.json
-- pages/pages_2.json
-- pages/pages_n.json
+##### Audio
+- audio/002/001.mp3
+- audio/002/002.mp3
+- audio/002/003.mp3
 
-##### Pages ( Image / JPG ) Format
-- pages/pages_PAGENUMBER.json
+##### Audio index
+- audio/001/index.json
 
-##### Sounds
-- sounds/002/001.mp3
-- sounds/002/002.mp3
-- sounds/002/003.mp3
+##### Audio format
+- audio/SURAHNUMBER/VERSENUMBER_OR_AYATNUMBER.mp3
+- audio/SURAHNUMBER/index.json
 
-##### Sounds Index
-- sounds/001/index.json
+##### Translation
+- translation/id/id_translation_1.json
+- translation/id/id_translation_2.json
+- translation/id/id_translation_n.json
 
-##### Sounds Format
-- sounds/SURAHNUMBER/VERSENUMBER_OR_AYATNUMBER.mp3
-- sounds/SURAHNUMBER/index.json
-
-##### Translations
-- translations/id/id_translation_1.json
-- translations/id/id_translation_2.json
-- translations/id/id_translation_n.json
-
-##### Translations Format
-- translations/LANGUAGE/LANGUAGE_translation_SURAHNUMBER.json
+##### Translation format
+- translation/LANGUAGE/LANGUAGE_translation_SURAHNUMBER.json
 
 ##### HOST : Raw
 - https://raw.githubusercontent.com/semarketir/quranjson/master/source/*
@@ -55,9 +67,6 @@
 
 ##### Example : Raw Format
 - https://raw.githubusercontent.com/semarketir/quranjson/BRANCH/SOURCE_OR_DIST/FOLDER/FILE.json
-
-##### Example : Pages ( Image / JPG )
-[Example](http://semarketir.github.io/quranjson/)
 
 ##### License
 [MIT License](http://opensource.org/licenses/mit-license.php)
