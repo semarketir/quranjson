@@ -3,7 +3,7 @@
         "place": "Mecca",
         "type": "Makkiyah",
         "count": 7,
-        "title": "Al Fatiha",
+        "title": "Al-Fatiha",
         "index": "001",
         "pages": "1",
         "juz": [
@@ -20,7 +20,7 @@
         "place": "Medina",
         "type": "Madaniyah",
         "count": 286,
-        "title": "AlBaqara",
+        "title": "Al-Baqara",
         "index": "002",
         "pages": "2",
         "juz": [
@@ -51,7 +51,7 @@
         "place": "Medina",
         "type": "Madaniyah",
         "count": 200,
-        "title": "Aal Imran",
+        "title": "Aal-Imran",
         "index": "003",
         "pages": "45",
         "juz": [
@@ -75,7 +75,7 @@
         "place": "Medina",
         "type": "Madaniyah",
         "count": 176,
-        "title": "AlNisa'",
+        "title": "An-Nisaa'",
         "index": "004",
         "pages": "69",
         "juz": [
@@ -106,7 +106,7 @@
         "place": "Medina",
         "type": "Madaniyah",
         "count": 120,
-        "title": "AlMa'ida",
+        "title": "Al-Ma'ida",
         "index": "005",
         "pages": "95",
         "juz": [
@@ -130,7 +130,7 @@
         "place": "Mecca",
         "type": "Makkiyah",
         "count": 165,
-        "title": "AlAn'am",
+        "title": "Al-An'am",
         "index": "006",
         "pages": "115",
         "juz": [
@@ -154,7 +154,7 @@
         "place": "Mecca",
         "type": "Makkiyah",
         "count": 206,
-        "title": "AlA'raf",
+        "title": "Al-A'raf",
         "index": "007",
         "pages": "136",
         "juz": [
@@ -178,7 +178,7 @@
         "place": "Medina",
         "type": "Madaniyah",
         "count": 75,
-        "title": "AlAnfal",
+        "title": "Al-Anfal",
         "index": "008",
         "pages": "160",
         "juz": [
@@ -202,7 +202,7 @@
         "place": "Medina",
         "type": "Madaniyah",
         "count": 129,
-        "title": "AlTauba",
+        "title": "Al-Tawba",
         "index": "009",
         "pages": "169",
         "juz": [
@@ -291,7 +291,7 @@
         "place": "Medina",
         "type": "Madaniyah",
         "count": 43,
-        "title": "ArRa'd",
+        "title": "Ar-Ra'd",
         "index": "013",
         "pages": "225",
         "juz": [
@@ -359,7 +359,7 @@
         "place": "Mecca",
         "type": "Makkiyah",
         "count": 111,
-        "title": "Al-Isra",
+        "title": "Al-Israa",
         "index": "017",
         "pages": "255",
         "juz": [
@@ -1102,7 +1102,7 @@
         "place": "Medina",
         "type": "Madaniyah",
         "count": 29,
-        "title": "Al Hadid",
+        "title": "Al-Hadid",
         "index": "057",
         "pages": "499",
         "juz": [
@@ -1391,7 +1391,7 @@
         "place": "Mecca",
         "type": "Makkiyah",
         "count": 56,
-        "title": "Al-Muddathhir",
+        "title": "Al-Muddaththir",
         "index": "074",
         "pages": "538",
         "juz": [
@@ -1816,7 +1816,7 @@
         "place": "Medina",
         "type": "Madaniyah",
         "count": 8,
-        "title": "Az-Zalzalaha",
+        "title": "Az-Zalzalah",
         "index": "099",
         "pages": "564",
         "juz": [
