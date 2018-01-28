@@ -4,12 +4,12 @@
         "start": {
             "index": "001",
             "verse": "verse_1",
-            "name": "Al Fatiha"
+            "name": "Al-Fatiha"
         },
         "end": {
             "index": "002",
             "verse": "verse_141",
-            "name": "AlBaqara"
+            "name": "Al-Baqara"
         }
     },
     {
@@ -17,12 +17,12 @@
         "start": {
             "index": "002",
             "verse": "verse_142",
-            "name": "AlBaqara"
+            "name": "Al-Baqara"
         },
         "end": {
             "index": "002",
             "verse": "verse_252",
-            "name": "AlBaqara"
+            "name": "Al-Baqara"
         }
     },
     {
@@ -30,12 +30,12 @@
         "start": {
             "index": "002",
             "verse": "verse_253",
-            "name": "AlBaqara"
+            "name": "Al-Baqara"
         },
         "end": {
             "index": "003",
             "verse": "verse_92",
-            "name": "Aal Imran"
+            "name": "Aal-Imran"
         }
     },
     {
@@ -43,12 +43,12 @@
         "start": {
             "index": "003",
             "verse": "verse_93",
-            "name": "Aal Imran"
+            "name": "Aal-Imran"
         },
         "end": {
             "index": "004",
             "verse": "verse_23",
-            "name": "AlNisa'"
+            "name": "An-Nisaa'"
         }
     },
     {
@@ -56,12 +56,12 @@
         "start": {
             "index": "004",
             "verse": "verse_24",
-            "name": "AlNisa'"
+            "name": "An-Nisaa'"
         },
         "end": {
             "index": "004",
             "verse": "verse_147",
-            "name": "AlNisa'"
+            "name": "An-Nisaa'"
         }
     },
     {
@@ -69,12 +69,12 @@
         "start": {
             "index": "004",
             "verse": "verse_148",
-            "name": "AlNisa'"
+            "name": "An-Nisaa'"
         },
         "end": {
             "index": "005",
             "verse": "verse_81",
-            "name": "AlMa'ida"
+            "name": "Al-Ma'ida"
         }
     },
     {
@@ -82,12 +82,12 @@
         "start": {
             "index": "005",
             "verse": "verse_82",
-            "name": "AlMa'ida"
+            "name": "Al-Ma'ida"
         },
         "end": {
             "index": "006",
             "verse": "verse_110",
-            "name": "AlAn'am"
+            "name": "Al-An'am"
         }
     },
     {
@@ -95,12 +95,12 @@
         "start": {
             "index": "006",
             "verse": "verse_111",
-            "name": "AlAn'am"
+            "name": "Al-An'am"
         },
         "end": {
             "index": "007",
             "verse": "verse_87",
-            "name": "AlA'raf"
+            "name": "Al-A'raf"
         }
     },
     {
@@ -108,12 +108,12 @@
         "start": {
             "index": "007",
             "verse": "verse_88",
-            "name": "AlA'raf"
+            "name": "Al-A'raf"
         },
         "end": {
             "index": "008",
             "verse": "verse_40",
-            "name": "AlAnfal"
+            "name": "Al-Anfal"
         }
     },
     {
@@ -121,12 +121,12 @@
         "start": {
             "index": "008",
             "verse": "verse_41",
-            "name": "AlAnfal"
+            "name": "Al-Anfal"
         },
         "end": {
             "index": "009",
             "verse": "verse_92",
-            "name": "AlTauba"
+            "name": "Al-Tawba"
         }
     },
     {
@@ -134,7 +134,7 @@
         "start": {
             "index": "009",
             "verse": "verse_93",
-            "name": "AlTauba"
+            "name": "Al-Tawba"
         },
         "end": {
             "index": "011",
@@ -186,7 +186,7 @@
         "start": {
             "index": "017",
             "verse": "verse_1",
-            "name": "Al-Isra"
+            "name": "Al-Israa"
         },
         "end": {
             "index": "018",
@@ -347,7 +347,7 @@
         "end": {
             "index": "057",
             "verse": "verse_29",
-            "name": "Al Hadid"
+            "name": "Al-Hadid"
         }
     },
     {
