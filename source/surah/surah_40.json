@@ -1,6 +1,6 @@
 {
     "index": "040",
-    "name": "al-Mu'min",
+    "name": "Ghafir",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
         "verse_1": "حم",
@@ -92,7 +92,7 @@
     "count": 85,
     "juz": [
         {
-            "index": "24252627282930",
+            "index": "24",
             "verse": {
                 "start": "verse_1",
                 "end": "verse_85"

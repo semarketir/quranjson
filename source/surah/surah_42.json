@@ -1,6 +1,6 @@
 {
     "index": "042",
-    "name": "as-Syura",
+    "name": "Ash-Shuraa",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
         "verse_1": "حم",
@@ -60,7 +60,7 @@
     "count": 53,
     "juz": [
         {
-            "index": "252627282930",
+            "index": "25",
             "verse": {
                 "start": "verse_1",
                 "end": "verse_53"

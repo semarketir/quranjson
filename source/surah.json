@@ -3,7 +3,7 @@
         "place": "Mecca",
         "type": "Makkiyah",
         "count": 7,
-        "title": "Al Fatiha",
+        "title": "Al-Fatiha",
         "index": "001",
         "pages": "1",
         "juz": [
@@ -17,10 +17,10 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 286,
-        "title": "AlBaqara",
+        "title": "Al-Baqara",
         "index": "002",
         "pages": "2",
         "juz": [
@@ -48,34 +48,34 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
-        "count": 73,
-        "title": "Aal Imran",
-        "index": "033",
+        "count": 200,
+        "title": "Aal-Imran",
+        "index": "003",
         "pages": "45",
         "juz": [
             {
-                "index": "21",
+                "index": "03",
                 "verse": {
                     "start": "verse_1",
-                    "end": "verse_30"
+                    "end": "verse_92"
                 }
             },
             {
-                "index": "22",
+                "index": "04",
                 "verse": {
-                    "start": "verse_31",
-                    "end": "verse_73"
+                    "start": "verse_93",
+                    "end": "verse_200"
                 }
             }
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 176,
-        "title": "AlNisa'",
+        "title": "An-Nisaa'",
         "index": "004",
         "pages": "69",
         "juz": [
@@ -103,10 +103,10 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 120,
-        "title": "AlMa'ida",
+        "title": "Al-Ma'ida",
         "index": "005",
         "pages": "95",
         "juz": [
@@ -130,7 +130,7 @@
         "place": "Mecca",
         "type": "Makkiyah",
         "count": 165,
-        "title": "AlAn'am",
+        "title": "Al-An'am",
         "index": "006",
         "pages": "115",
         "juz": [
@@ -154,7 +154,7 @@
         "place": "Mecca",
         "type": "Makkiyah",
         "count": 206,
-        "title": "AlA'raf",
+        "title": "Al-A'raf",
         "index": "007",
         "pages": "136",
         "juz": [
@@ -175,10 +175,10 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 75,
-        "title": "AlAnfal",
+        "title": "Al-Anfal",
         "index": "008",
         "pages": "160",
         "juz": [
@@ -199,10 +199,10 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 129,
-        "title": "AlTauba",
+        "title": "Al-Tawba",
         "index": "009",
         "pages": "169",
         "juz": [
@@ -231,7 +231,7 @@
         "pages": "187",
         "juz": [
             {
-                "index": "1112131415161718192021222324252627282930",
+                "index": "11",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_109"
@@ -288,15 +288,15 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 43,
-        "title": "ArRa'd",
+        "title": "Ar-Ra'd",
         "index": "013",
         "pages": "225",
         "juz": [
             {
-                "index": "131415161718192021222324252627282930",
+                "index": "13",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_43"
@@ -359,7 +359,7 @@
         "place": "Mecca",
         "type": "Makkiyah",
         "count": 111,
-        "title": "Al-Isra",
+        "title": "Al-Israa",
         "index": "017",
         "pages": "255",
         "juz": [
@@ -405,7 +405,7 @@
         "pages": "277",
         "juz": [
             {
-                "index": "161718192021222324252627282930",
+                "index": "16",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_98"
@@ -448,7 +448,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 78,
         "title": "Al-Hajj",
@@ -482,7 +482,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 64,
         "title": "An-Nur",
@@ -490,7 +490,7 @@
         "pages": "319",
         "juz": [
             {
-                "index": "18192021222324252627282930",
+                "index": "18",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_64"
@@ -531,7 +531,7 @@
         "pages": "335",
         "juz": [
             {
-                "index": "192021222324252627282930",
+                "index": "19",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_227"
@@ -572,7 +572,7 @@
         "pages": "354",
         "juz": [
             {
-                "index": "2021222324252627282930",
+                "index": "20",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_88"
@@ -613,7 +613,7 @@
         "pages": "371",
         "juz": [
             {
-                "index": "21222324252627282930",
+                "index": "21",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_60"
@@ -630,7 +630,7 @@
         "pages": "377",
         "juz": [
             {
-                "index": "21222324252627282930",
+                "index": "21",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_34"
@@ -647,7 +647,7 @@
         "pages": "381",
         "juz": [
             {
-                "index": "21222324252627282930",
+                "index": "21",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_30"
@@ -656,7 +656,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 73,
         "title": "Al-Ahzab",
@@ -688,7 +688,7 @@
         "pages": "393",
         "juz": [
             {
-                "index": "222324252627282930",
+                "index": "22",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_54"
@@ -705,7 +705,7 @@
         "pages": "399",
         "juz": [
             {
-                "index": "222324252627282930",
+                "index": "22",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_45"
@@ -746,7 +746,7 @@
         "pages": "410",
         "juz": [
             {
-                "index": "2324252627282930",
+                "index": "23",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_182"
@@ -763,7 +763,7 @@
         "pages": "417",
         "juz": [
             {
-                "index": "2324252627282930",
+                "index": "23",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_88"
@@ -804,7 +804,7 @@
         "pages": "431",
         "juz": [
             {
-                "index": "24252627282930",
+                "index": "24",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_85"
@@ -845,7 +845,7 @@
         "pages": "445",
         "juz": [
             {
-                "index": "252627282930",
+                "index": "25",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_53"
@@ -862,7 +862,7 @@
         "pages": "451",
         "juz": [
             {
-                "index": "252627282930",
+                "index": "25",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_89"
@@ -879,7 +879,7 @@
         "pages": "457",
         "juz": [
             {
-                "index": "252627282930",
+                "index": "25",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_59"
@@ -922,7 +922,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 38,
         "title": "Muhammad",
@@ -930,7 +930,7 @@
         "pages": "468",
         "juz": [
             {
-                "index": "2627282930",
+                "index": "26",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_38"
@@ -939,7 +939,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 29,
         "title": "Al-Fath",
@@ -947,7 +947,7 @@
         "pages": "472",
         "juz": [
             {
-                "index": "2627282930",
+                "index": "26",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_29"
@@ -956,7 +956,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 18,
         "title": "Al-Hujurat",
@@ -964,7 +964,7 @@
         "pages": "477",
         "juz": [
             {
-                "index": "2627282930",
+                "index": "26",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_18"
@@ -981,7 +981,7 @@
         "pages": "479",
         "juz": [
             {
-                "index": "2627282930",
+                "index": "26",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_45"
@@ -1022,7 +1022,7 @@
         "pages": "485",
         "juz": [
             {
-                "index": "27282930",
+                "index": "27",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_49"
@@ -1039,7 +1039,7 @@
         "pages": "487",
         "juz": [
             {
-                "index": "27282930",
+                "index": "27",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_62"
@@ -1056,7 +1056,7 @@
         "pages": "490",
         "juz": [
             {
-                "index": "27282930",
+                "index": "27",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_55"
@@ -1065,7 +1065,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 78,
         "title": "Ar-Rahman",
@@ -1073,7 +1073,7 @@
         "pages": "493",
         "juz": [
             {
-                "index": "27282930",
+                "index": "27",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_78"
@@ -1090,7 +1090,7 @@
         "pages": "496",
         "juz": [
             {
-                "index": "27282930",
+                "index": "27",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_96"
@@ -1099,10 +1099,10 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 29,
-        "title": "Al Hadid",
+        "title": "Al-Hadid",
         "index": "057",
         "pages": "499",
         "juz": [
@@ -1116,7 +1116,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 22,
         "title": "Al-Mujadilah",
@@ -1133,7 +1133,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 24,
         "title": "Al-Hashr",
@@ -1141,7 +1141,7 @@
         "pages": "507",
         "juz": [
             {
-                "index": "282930",
+                "index": "28",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_24"
@@ -1150,7 +1150,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 13,
         "title": "Al-Mumtahinah",
@@ -1158,7 +1158,7 @@
         "pages": "510",
         "juz": [
             {
-                "index": "282930",
+                "index": "28",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_13"
@@ -1167,7 +1167,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 14,
         "title": "As-Saff",
@@ -1175,7 +1175,7 @@
         "pages": "513",
         "juz": [
             {
-                "index": "282930",
+                "index": "28",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_14"
@@ -1184,7 +1184,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 11,
         "title": "Al-Jumu'ah",
@@ -1192,7 +1192,7 @@
         "pages": "515",
         "juz": [
             {
-                "index": "282930",
+                "index": "28",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_11"
@@ -1201,7 +1201,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 11,
         "title": "Al-Munafiqun",
@@ -1209,7 +1209,7 @@
         "pages": "516",
         "juz": [
             {
-                "index": "282930",
+                "index": "28",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_11"
@@ -1218,7 +1218,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 18,
         "title": "At-Taghabun",
@@ -1226,7 +1226,7 @@
         "pages": "518",
         "juz": [
             {
-                "index": "282930",
+                "index": "28",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_18"
@@ -1235,7 +1235,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 12,
         "title": "At-Talaq",
@@ -1243,7 +1243,7 @@
         "pages": "520",
         "juz": [
             {
-                "index": "282930",
+                "index": "28",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_12"
@@ -1252,7 +1252,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 12,
         "title": "At-Tahrim",
@@ -1294,7 +1294,7 @@
         "pages": "526",
         "juz": [
             {
-                "index": "2930",
+                "index": "29",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_52"
@@ -1311,7 +1311,7 @@
         "pages": "529",
         "juz": [
             {
-                "index": "2930",
+                "index": "29",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_52"
@@ -1328,7 +1328,7 @@
         "pages": "531",
         "juz": [
             {
-                "index": "2930",
+                "index": "29",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_44"
@@ -1345,7 +1345,7 @@
         "pages": "533",
         "juz": [
             {
-                "index": "2930",
+                "index": "29",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_28"
@@ -1362,7 +1362,7 @@
         "pages": "534",
         "juz": [
             {
-                "index": "2930",
+                "index": "29",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_28"
@@ -1379,7 +1379,7 @@
         "pages": "537",
         "juz": [
             {
-                "index": "2930",
+                "index": "29",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_20"
@@ -1391,12 +1391,12 @@
         "place": "Mecca",
         "type": "Makkiyah",
         "count": 56,
-        "title": "Al-Muddathhir",
+        "title": "Al-Muddaththir",
         "index": "074",
         "pages": "538",
         "juz": [
             {
-                "index": "2930",
+                "index": "29",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_56"
@@ -1413,7 +1413,7 @@
         "pages": "540",
         "juz": [
             {
-                "index": "2930",
+                "index": "29",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_40"
@@ -1422,7 +1422,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 31,
         "title": "Al-Insan",
@@ -1430,7 +1430,7 @@
         "pages": "542",
         "juz": [
             {
-                "index": "2930",
+                "index": "29",
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_31"
@@ -1796,7 +1796,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 8,
         "title": "Al-Bayinah",
@@ -1813,10 +1813,10 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 8,
-        "title": "Az-Zalzalaha",
+        "title": "Az-Zalzalah",
         "index": "099",
         "pages": "564",
         "juz": [
@@ -2000,7 +2000,7 @@
         ]
     },
     {
-        "place": "Madanī",
+        "place": "Medina",
         "type": "Madaniyah",
         "count": 3,
         "title": "An-Nasr",

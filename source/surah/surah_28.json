@@ -1,6 +1,6 @@
 {
     "index": "028",
-    "name": "al-Qashash",
+    "name": "Al-Qasas",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
         "verse_1": "طسم",
@@ -95,7 +95,7 @@
     "count": 88,
     "juz": [
         {
-            "index": "2021222324252627282930",
+            "index": "20",
             "verse": {
                 "start": "verse_1",
                 "end": "verse_88"
