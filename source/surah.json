@@ -4,6 +4,7 @@
         "type": "Makkiyah",
         "count": 7,
         "title": "Al-Fatiha",
+        "titleAr":"الفاتحة",
         "index": "001",
         "pages": "1",
         "juz": [
@@ -21,6 +22,7 @@
         "type": "Madaniyah",
         "count": 286,
         "title": "Al-Baqara",
+        "titleAr":"البقرة",
         "index": "002",
         "pages": "2",
         "juz": [
@@ -52,6 +54,7 @@
         "type": "Madaniyah",
         "count": 200,
         "title": "Aal-Imran",
+        "titleAr":"آل عمران",
         "index": "003",
         "pages": "45",
         "juz": [
@@ -76,6 +79,7 @@
         "type": "Madaniyah",
         "count": 176,
         "title": "An-Nisaa'",
+        "titleAr":"النساء",
         "index": "004",
         "pages": "69",
         "juz": [
@@ -107,6 +111,7 @@
         "type": "Madaniyah",
         "count": 120,
         "title": "Al-Ma'ida",
+        "titleAr":"المائدة",
         "index": "005",
         "pages": "95",
         "juz": [
@@ -131,6 +136,7 @@
         "type": "Makkiyah",
         "count": 165,
         "title": "Al-An'am",
+        "titleAr":"الأنعام",
         "index": "006",
         "pages": "115",
         "juz": [
@@ -155,6 +161,7 @@
         "type": "Makkiyah",
         "count": 206,
         "title": "Al-A'raf",
+        "titleAr":"الأعراف",
         "index": "007",
         "pages": "136",
         "juz": [
@@ -179,6 +186,7 @@
         "type": "Madaniyah",
         "count": 75,
         "title": "Al-Anfal",
+        "titleAr":"الأنفال",
         "index": "008",
         "pages": "160",
         "juz": [
@@ -203,6 +211,7 @@
         "type": "Madaniyah",
         "count": 129,
         "title": "Al-Tawba",
+        "titleAr":"التوبة",
         "index": "009",
         "pages": "169",
         "juz": [
@@ -227,6 +236,7 @@
         "type": "Makkiyah",
         "count": 109,
         "title": "Yunus",
+        "titleAr":"يونس",
         "index": "010",
         "pages": "187",
         "juz": [
@@ -244,6 +254,7 @@
         "type": "Makkiyah",
         "count": 123,
         "title": "Hud",
+        "titleAr":"هود",
         "index": "011",
         "pages": "199",
         "juz": [
@@ -268,6 +279,7 @@
         "type": "Makkiyah",
         "count": 111,
         "title": "Yusuf",
+        "titleAr":"يوسف",
         "index": "012",
         "pages": "212",
         "juz": [
@@ -292,6 +304,7 @@
         "type": "Madaniyah",
         "count": 43,
         "title": "Ar-Ra'd",
+        "titleAr":"الرعد",
         "index": "013",
         "pages": "225",
         "juz": [
@@ -309,6 +322,7 @@
         "type": "Makkiyah",
         "count": 52,
         "title": "Ibrahim",
+        "titleAr":"إبراهيم",
         "index": "014",
         "pages": "231",
         "juz": [
@@ -326,6 +340,7 @@
         "type": "Makkiyah",
         "count": 99,
         "title": "Al-Hijr",
+        "titleAr":"الحجر",
         "index": "015",
         "pages": "237",
         "juz": [
@@ -343,6 +358,7 @@
         "type": "Makkiyah",
         "count": 128,
         "title": "An-Nahl",
+        "titleAr":"النحل",
         "index": "016",
         "pages": "242",
         "juz": [
@@ -360,6 +376,7 @@
         "type": "Makkiyah",
         "count": 111,
         "title": "Al-Israa",
+        "titleAr":"الإسراء",
         "index": "017",
         "pages": "255",
         "juz": [
@@ -377,6 +394,7 @@
         "type": "Makkiyah",
         "count": 110,
         "title": "Al-Kahf",
+        "titleAr":"الكهف",
         "index": "018",
         "pages": "266",
         "juz": [
@@ -401,6 +419,7 @@
         "type": "Makkiyah",
         "count": 98,
         "title": "Maryam",
+        "titleAr":"مريم",
         "index": "019",
         "pages": "277",
         "juz": [
@@ -418,6 +437,7 @@
         "type": "Makkiyah",
         "count": 135,
         "title": "Ta-Ha",
+        "titleAr":"طه",
         "index": "020",
         "pages": "284",
         "juz": [
@@ -435,6 +455,7 @@
         "type": "Makkiyah",
         "count": 112,
         "title": "Al-Anbiya",
+        "titleAr":"الأنبياء",
         "index": "021",
         "pages": "294",
         "juz": [
@@ -452,6 +473,7 @@
         "type": "Madaniyah",
         "count": 78,
         "title": "Al-Hajj",
+        "titleAr":"الحج",
         "index": "022",
         "pages": "302",
         "juz": [
@@ -469,6 +491,7 @@
         "type": "Makkiyah",
         "count": 118,
         "title": "Al-Muminun",
+        "titleAr":"المؤمنون",
         "index": "023",
         "pages": "311",
         "juz": [
@@ -486,6 +509,7 @@
         "type": "Madaniyah",
         "count": 64,
         "title": "An-Nur",
+        "titleAr":"النور",
         "index": "024",
         "pages": "319",
         "juz": [
@@ -503,6 +527,7 @@
         "type": "Makkiyah",
         "count": 77,
         "title": "Al-Furqan",
+        "titleAr":"الفرقان",
         "index": "025",
         "pages": "329",
         "juz": [
@@ -527,6 +552,7 @@
         "type": "Makkiyah",
         "count": 227,
         "title": "Ash-Shuara",
+        "titleAr":"الشعراء",
         "index": "026",
         "pages": "335",
         "juz": [
@@ -544,6 +570,7 @@
         "type": "Makkiyah",
         "count": 93,
         "title": "An-Naml",
+        "titleAr":"النمل",
         "index": "027",
         "pages": "345",
         "juz": [
@@ -568,6 +595,7 @@
         "type": "Makkiyah",
         "count": 88,
         "title": "Al-Qasas",
+        "titleAr":"القصص",
         "index": "028",
         "pages": "354",
         "juz": [
@@ -585,6 +613,7 @@
         "type": "Makkiyah",
         "count": 69,
         "title": "Al-Ankabut",
+        "titleAr":"العنكبوت",
         "index": "029",
         "pages": "364",
         "juz": [
@@ -609,6 +638,7 @@
         "type": "Makkiyah",
         "count": 60,
         "title": "Ar-Rum",
+        "titleAr":"الروم",
         "index": "030",
         "pages": "371",
         "juz": [
@@ -626,6 +656,7 @@
         "type": "Makkiyah",
         "count": 34,
         "title": "Luqman",
+        "titleAr":"لقمان",
         "index": "031",
         "pages": "377",
         "juz": [
@@ -643,6 +674,7 @@
         "type": "Makkiyah",
         "count": 30,
         "title": "As-Sajdah",
+        "titleAr":"السجدة",
         "index": "032",
         "pages": "381",
         "juz": [
@@ -660,6 +692,7 @@
         "type": "Madaniyah",
         "count": 73,
         "title": "Al-Ahzab",
+        "titleAr":"الأحزاب",
         "index": "033",
         "pages": "383",
         "juz": [
@@ -684,6 +717,7 @@
         "type": "Makkiyah",
         "count": 54,
         "title": "Saba",
+        "titleAr":"سبأ",
         "index": "034",
         "pages": "393",
         "juz": [
@@ -701,6 +735,7 @@
         "type": "Makkiyah",
         "count": 45,
         "title": "Fatir",
+        "titleAr":"فاطر",
         "index": "035",
         "pages": "399",
         "juz": [
@@ -718,6 +753,7 @@
         "type": "Makkiyah",
         "count": 83,
         "title": "Yasin",
+        "titleAr":"يس",
         "index": "036",
         "pages": "404",
         "juz": [
@@ -742,6 +778,7 @@
         "type": "Makkiyah",
         "count": 182,
         "title": "As-Saffat",
+        "titleAr":"الصافات",
         "index": "037",
         "pages": "410",
         "juz": [
@@ -759,6 +796,7 @@
         "type": "Makkiyah",
         "count": 88,
         "title": "Sad",
+        "titleAr":"ص",
         "index": "038",
         "pages": "417",
         "juz": [
@@ -776,6 +814,7 @@
         "type": "Makkiyah",
         "count": 75,
         "title": "Az-Zumar",
+        "titleAr":"الزمر",
         "index": "039",
         "pages": "422",
         "juz": [
@@ -800,6 +839,7 @@
         "type": "Makkiyah",
         "count": 85,
         "title": "Ghafir",
+        "titleAr":"غافر",
         "index": "040",
         "pages": "431",
         "juz": [
@@ -817,6 +857,7 @@
         "type": "Makkiyah",
         "count": 54,
         "title": "Fussilat",
+        "titleAr":"فصلت",
         "index": "041",
         "pages": "439",
         "juz": [
@@ -841,6 +882,7 @@
         "type": "Makkiyah",
         "count": 53,
         "title": "Ash-Shura",
+        "titleAr":"الشورى",
         "index": "042",
         "pages": "445",
         "juz": [
@@ -858,6 +900,7 @@
         "type": "Makkiyah",
         "count": 89,
         "title": "Az-Zukhruf",
+        "titleAr":"الزخرف",
         "index": "043",
         "pages": "451",
         "juz": [
@@ -875,6 +918,7 @@
         "type": "Makkiyah",
         "count": 59,
         "title": "Ad-Dukhan",
+        "titleAr":"الدخان",
         "index": "044",
         "pages": "457",
         "juz": [
@@ -892,6 +936,7 @@
         "type": "Makkiyah",
         "count": 37,
         "title": "Al-Jathiya",
+        "titleAr":"الجاثية",
         "index": "045",
         "pages": "460",
         "juz": [
@@ -909,6 +954,7 @@
         "type": "Makkiyah",
         "count": 35,
         "title": "Al-Ahqaf",
+        "titleAr":"الأحقاف",
         "index": "046",
         "pages": "464",
         "juz": [
@@ -926,6 +972,7 @@
         "type": "Madaniyah",
         "count": 38,
         "title": "Muhammad",
+        "titleAr":"محمد",
         "index": "047",
         "pages": "468",
         "juz": [
@@ -943,6 +990,7 @@
         "type": "Madaniyah",
         "count": 29,
         "title": "Al-Fath",
+        "titleAr":"الفتح",
         "index": "048",
         "pages": "472",
         "juz": [
@@ -960,6 +1008,7 @@
         "type": "Madaniyah",
         "count": 18,
         "title": "Al-Hujurat",
+        "titleAr":"الحجرات",
         "index": "049",
         "pages": "477",
         "juz": [
@@ -977,6 +1026,7 @@
         "type": "Makkiyah",
         "count": 45,
         "title": "Qaf",
+        "titleAr":"ق",
         "index": "050",
         "pages": "479",
         "juz": [
@@ -994,6 +1044,7 @@
         "type": "Makkiyah",
         "count": 60,
         "title": "Az-Zariyat",
+        "titleAr":"الذاريات",
         "index": "051",
         "pages": "482",
         "juz": [
@@ -1018,6 +1069,7 @@
         "type": "Makkiyah",
         "count": 49,
         "title": "At-Tur",
+        "titleAr":"الطور",
         "index": "052",
         "pages": "485",
         "juz": [
@@ -1035,6 +1087,7 @@
         "type": "Makkiyah",
         "count": 62,
         "title": "An-Najm",
+        "titleAr":"النجم",
         "index": "053",
         "pages": "487",
         "juz": [
@@ -1052,6 +1105,7 @@
         "type": "Makkiyah",
         "count": 55,
         "title": "Al-Qamar",
+        "titleAr":"القمر",
         "index": "054",
         "pages": "490",
         "juz": [
@@ -1069,6 +1123,7 @@
         "type": "Madaniyah",
         "count": 78,
         "title": "Ar-Rahman",
+        "titleAr":"الرحمن",
         "index": "055",
         "pages": "493",
         "juz": [
@@ -1086,6 +1141,7 @@
         "type": "Makkiyah",
         "count": 96,
         "title": "Al-Waqia",
+        "titleAr":"الواقعة",
         "index": "056",
         "pages": "496",
         "juz": [
@@ -1103,6 +1159,7 @@
         "type": "Madaniyah",
         "count": 29,
         "title": "Al-Hadid",
+        "titleAr":"الحديد",
         "index": "057",
         "pages": "499",
         "juz": [
@@ -1120,6 +1177,7 @@
         "type": "Madaniyah",
         "count": 22,
         "title": "Al-Mujadilah",
+        "titleAr":"المجادلة",
         "index": "058",
         "pages": "504",
         "juz": [
@@ -1137,6 +1195,7 @@
         "type": "Madaniyah",
         "count": 24,
         "title": "Al-Hashr",
+        "titleAr":"الحشر",
         "index": "059",
         "pages": "507",
         "juz": [
@@ -1154,6 +1213,7 @@
         "type": "Madaniyah",
         "count": 13,
         "title": "Al-Mumtahinah",
+        "titleAr":"الممتحنة",
         "index": "060",
         "pages": "510",
         "juz": [
@@ -1171,6 +1231,7 @@
         "type": "Madaniyah",
         "count": 14,
         "title": "As-Saff",
+        "titleAr":"الصف",
         "index": "061",
         "pages": "513",
         "juz": [
@@ -1188,6 +1249,7 @@
         "type": "Madaniyah",
         "count": 11,
         "title": "Al-Jumu'ah",
+        "titleAr":"الجمعة",
         "index": "062",
         "pages": "515",
         "juz": [
@@ -1205,6 +1267,7 @@
         "type": "Madaniyah",
         "count": 11,
         "title": "Al-Munafiqun",
+        "titleAr":"المنافقون",
         "index": "063",
         "pages": "516",
         "juz": [
@@ -1222,6 +1285,7 @@
         "type": "Madaniyah",
         "count": 18,
         "title": "At-Taghabun",
+        "titleAr":"التغابن",
         "index": "064",
         "pages": "518",
         "juz": [
@@ -1239,6 +1303,7 @@
         "type": "Madaniyah",
         "count": 12,
         "title": "At-Talaq",
+        "titleAr":"الطلاق",
         "index": "065",
         "pages": "520",
         "juz": [
@@ -1256,6 +1321,7 @@
         "type": "Madaniyah",
         "count": 12,
         "title": "At-Tahrim",
+        "titleAr":"التحريم",
         "index": "066",
         "pages": "522",
         "juz": [
@@ -1273,6 +1339,7 @@
         "type": "Makkiyah",
         "count": 30,
         "title": "Al-Mulk",
+        "titleAr":"الملك",
         "index": "067",
         "pages": "524",
         "juz": [
@@ -1290,6 +1357,7 @@
         "type": "Makkiyah",
         "count": 52,
         "title": "Al-Qalam",
+        "titleAr":"القلم",
         "index": "068",
         "pages": "526",
         "juz": [
@@ -1307,6 +1375,7 @@
         "type": "Makkiyah",
         "count": 52,
         "title": "Al-Haqqah",
+        "titleAr":"الحاقة",
         "index": "069",
         "pages": "529",
         "juz": [
@@ -1324,6 +1393,7 @@
         "type": "Makkiyah",
         "count": 44,
         "title": "Al-Ma'arij",
+        "titleAr":"المعارج",
         "index": "070",
         "pages": "531",
         "juz": [
@@ -1341,6 +1411,7 @@
         "type": "Makkiyah",
         "count": 28,
         "title": "Nuh",
+        "titleAr":"نوح",
         "index": "071",
         "pages": "533",
         "juz": [
@@ -1358,6 +1429,7 @@
         "type": "Makkiyah",
         "count": 28,
         "title": "Al-Jinn",
+        "titleAr":"الجن",
         "index": "072",
         "pages": "534",
         "juz": [
@@ -1375,6 +1447,7 @@
         "type": "Makkiyah",
         "count": 20,
         "title": "Al-Muzzammil",
+        "titleAr":"المزمل",
         "index": "073",
         "pages": "537",
         "juz": [
@@ -1392,6 +1465,7 @@
         "type": "Makkiyah",
         "count": 56,
         "title": "Al-Muddaththir",
+        "titleAr":"المدثر",
         "index": "074",
         "pages": "538",
         "juz": [
@@ -1409,6 +1483,7 @@
         "type": "Makkiyah",
         "count": 40,
         "title": "Al-Qiyamah",
+        "titleAr":"القيامة",
         "index": "075",
         "pages": "540",
         "juz": [
@@ -1426,6 +1501,7 @@
         "type": "Madaniyah",
         "count": 31,
         "title": "Al-Insan",
+        "titleAr":"الإنسان",
         "index": "076",
         "pages": "542",
         "juz": [
@@ -1443,6 +1519,7 @@
         "type": "Makkiyah",
         "count": 50,
         "title": "Al-Mursalat",
+        "titleAr":"المرسلات",
         "index": "077",
         "pages": "544",
         "juz": [
@@ -1460,6 +1537,7 @@
         "type": "Makkiyah",
         "count": 40,
         "title": "An-Naba",
+        "titleAr":"النبأ",
         "index": "078",
         "pages": "545",
         "juz": [
@@ -1477,6 +1555,7 @@
         "type": "Makkiyah",
         "count": 46,
         "title": "An-Naziat",
+        "titleAr":"النازعات",
         "index": "079",
         "pages": "547",
         "juz": [
@@ -1494,6 +1573,7 @@
         "type": "Makkiyah",
         "count": 42,
         "title": "Abasa",
+        "titleAr":"عبس",
         "index": "080",
         "pages": "548",
         "juz": [
@@ -1511,6 +1591,7 @@
         "type": "Makkiyah",
         "count": 29,
         "title": "At-Takwir",
+        "titleAr":"التكوير",
         "index": "081",
         "pages": "550",
         "juz": [
@@ -1528,6 +1609,7 @@
         "type": "Makkiyah",
         "count": 19,
         "title": "Al-Infitar",
+        "titleAr":"الإنفطار",
         "index": "082",
         "pages": "551",
         "juz": [
@@ -1545,6 +1627,7 @@
         "type": "Makkiyah",
         "count": 36,
         "title": "Al-Mutaffifin",
+        "titleAr":"المطففين",
         "index": "083",
         "pages": "552",
         "juz": [
@@ -1562,6 +1645,7 @@
         "type": "Makkiyah",
         "count": 25,
         "title": "Al-Inshiqaq",
+        "titleAr":"الإنشقاق",
         "index": "084",
         "pages": "553",
         "juz": [
@@ -1579,6 +1663,7 @@
         "type": "Makkiyah",
         "count": 22,
         "title": "Al-Buruj",
+        "titleAr":"البروج",
         "index": "085",
         "pages": "554",
         "juz": [
@@ -1596,6 +1681,7 @@
         "type": "Makkiyah",
         "count": 17,
         "title": "At-Tariq",
+        "titleAr":"الطارق",
         "index": "086",
         "pages": "555",
         "juz": [
@@ -1613,6 +1699,7 @@
         "type": "Makkiyah",
         "count": 19,
         "title": "Al-Ala",
+        "titleAr":"الأعلى",
         "index": "087",
         "pages": "556",
         "juz": [
@@ -1630,6 +1717,7 @@
         "type": "Makkiyah",
         "count": 26,
         "title": "Al-Ghashiyah",
+        "titleAr":"الغاشية",
         "index": "088",
         "pages": "556",
         "juz": [
@@ -1647,6 +1735,7 @@
         "type": "Makkiyah",
         "count": 30,
         "title": "Al-Fajr",
+        "titleAr":"الفجر",
         "index": "089",
         "pages": "557",
         "juz": [
@@ -1664,6 +1753,7 @@
         "type": "Makkiyah",
         "count": 20,
         "title": "Al-Balad",
+        "titleAr":"البلد",
         "index": "090",
         "pages": "559",
         "juz": [
@@ -1681,6 +1771,7 @@
         "type": "Makkiyah",
         "count": 15,
         "title": "Ash-Shams",
+        "titleAr":"الشمس",
         "index": "091",
         "pages": "559",
         "juz": [
@@ -1698,6 +1789,7 @@
         "type": "Makkiyah",
         "count": 21,
         "title": "Al-Lail",
+        "titleAr":"الليل",
         "index": "092",
         "pages": "560",
         "juz": [
@@ -1715,6 +1807,7 @@
         "type": "Makkiyah",
         "count": 11,
         "title": "Ad-Duha",
+        "titleAr":"الضحى",
         "index": "093",
         "pages": "561",
         "juz": [
@@ -1732,6 +1825,7 @@
         "type": "Makkiyah",
         "count": 8,
         "title": "Ash-Sharh",
+        "titleAr":"الشرح",
         "index": "094",
         "pages": "561",
         "juz": [
@@ -1749,6 +1843,7 @@
         "type": "Makkiyah",
         "count": 8,
         "title": "At-Tin",
+        "titleAr":"التين",
         "index": "095",
         "pages": "562",
         "juz": [
@@ -1766,6 +1861,7 @@
         "type": "Makkiyah",
         "count": 19,
         "title": "Al-Alaq",
+        "titleAr":"العلق",
         "index": "096",
         "pages": "562",
         "juz": [
@@ -1783,6 +1879,7 @@
         "type": "Makkiyah",
         "count": 5,
         "title": "Al-Qadr",
+        "titleAr":"القدر",
         "index": "097",
         "pages": "563",
         "juz": [
@@ -1800,6 +1897,7 @@
         "type": "Madaniyah",
         "count": 8,
         "title": "Al-Bayinah",
+        "titleAr":"البينة",
         "index": "098",
         "pages": "563",
         "juz": [
@@ -1817,6 +1915,7 @@
         "type": "Madaniyah",
         "count": 8,
         "title": "Az-Zalzalah",
+        "titleAr":"الزلزلة",
         "index": "099",
         "pages": "564",
         "juz": [
@@ -1834,6 +1933,7 @@
         "type": "Makkiyah",
         "count": 11,
         "title": "Al-Adiyat",
+        "titleAr":"العاديات",
         "index": "100",
         "pages": "564",
         "juz": [
@@ -1851,6 +1951,7 @@
         "type": "Makkiyah",
         "count": 11,
         "title": "Al-Qariah",
+        "titleAr":"القارعة",
         "index": "101",
         "pages": "565",
         "juz": [
@@ -1868,6 +1969,7 @@
         "type": "Makkiyah",
         "count": 8,
         "title": "Al-Takathur",
+        "titleAr":"التكاثر",
         "index": "102",
         "pages": "565",
         "juz": [
@@ -1885,6 +1987,7 @@
         "type": "Makkiyah",
         "count": 3,
         "title": "Al-Asr",
+        "titleAr":"العصر",
         "index": "103",
         "pages": "566",
         "juz": [
@@ -1902,6 +2005,7 @@
         "type": "Makkiyah",
         "count": 9,
         "title": "Al-Humazah",
+        "titleAr":"الهمزة",
         "index": "104",
         "pages": "566",
         "juz": [
@@ -1919,6 +2023,7 @@
         "type": "Makkiyah",
         "count": 5,
         "title": "Al-Fil",
+        "titleAr":"الفيل",
         "index": "105",
         "pages": "566",
         "juz": [
@@ -1936,6 +2041,7 @@
         "type": "Makkiyah",
         "count": 4,
         "title": "Quraish",
+        "titleAr":"قريش",
         "index": "106",
         "pages": "567",
         "juz": [
@@ -1953,6 +2059,7 @@
         "type": "Makkiyah",
         "count": 7,
         "title": "Al-Ma'un",
+        "titleAr":"الماعون",
         "index": "107",
         "pages": "567",
         "juz": [
@@ -1970,6 +2077,7 @@
         "type": "Makkiyah",
         "count": 3,
         "title": "Al-Kauthar",
+        "titleAr":"الكوثر",
         "index": "108",
         "pages": "567",
         "juz": [
@@ -1987,6 +2095,7 @@
         "type": "Makkiyah",
         "count": 6,
         "title": "Al-Kafirun",
+        "titleAr":"الكافرون",
         "index": "109",
         "pages": "568",
         "juz": [
@@ -2004,6 +2113,7 @@
         "type": "Madaniyah",
         "count": 3,
         "title": "An-Nasr",
+        "titleAr":"النصر",
         "index": "110",
         "pages": "568",
         "juz": [
@@ -2021,6 +2131,7 @@
         "type": "Makkiyah",
         "count": 5,
         "title": "Al-Masad",
+        "titleAr":"المسد",
         "index": "111",
         "pages": "568",
         "juz": [
@@ -2038,6 +2149,7 @@
         "type": "Makkiyah",
         "count": 4,
         "title": "Al-Ikhlas",
+        "titleAr":"الإخلاص",
         "index": "112",
         "pages": "569",
         "juz": [
@@ -2055,6 +2167,7 @@
         "type": "Makkiyah",
         "count": 5,
         "title": "Al-Falaq",
+        "titleAr":"الفلق",
         "index": "113",
         "pages": "569",
         "juz": [
@@ -2072,6 +2185,7 @@
         "type": "Makkiyah",
         "count": 6,
         "title": "An-Nas",
+        "titleAr":"الناس",
         "index": "114",
         "pages": "569",
         "juz": [
