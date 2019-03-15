@@ -1,6 +1,11 @@
 {
 	"index": "002",
 	"verse": {
+		"verse_0": {
+			"file": "000.mp3",
+			"size": 27426,
+			"unit": "26,78 KB"
+		},
 		"verse_1": {
 			"file": "001.mp3",
 			"size": 41402,
