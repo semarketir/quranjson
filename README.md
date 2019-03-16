@@ -17,6 +17,8 @@
     ├── juz.json
     ├── surah
     │   └── surah_<number:1-114>.json
+    ├── tajweed
+    │   └── surah_<number:1-114>.json
     ├── surah.json
     └── translation
         └── <language_code:e_g:id-en-etc>
@@ -36,6 +38,14 @@
 
 ##### Surah ( Arabic ) format
 - surah/surah_SURAHNUMBER.json
+
+##### Tajweed
+- tajweed/surah_1.json
+- tajweed/surah_2.json
+- tajweed/surah_n.json
+
+##### Tajweed format
+- tajweed/surah_SURAHNUMBER.json
 
 ##### Audio
 - audio/002/001.mp3

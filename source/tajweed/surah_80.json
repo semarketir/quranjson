@@ -1,0 +1,561 @@
+{
+    "index": "080",
+    "verse": {
+        "verse_0": [
+            {
+                "end": 8,
+                "rule": "hamzat_wasl",
+                "start": 7
+            },
+            {
+                "end": 16,
+                "rule": "hamzat_wasl",
+                "start": 15
+            },
+            {
+                "end": 17,
+                "rule": "lam_shamsiyyah",
+                "start": 16
+            },
+            {
+                "end": 25,
+                "rule": "madd_2",
+                "start": 24
+            },
+            {
+                "end": 29,
+                "rule": "hamzat_wasl",
+                "start": 28
+            },
+            {
+                "end": 30,
+                "rule": "lam_shamsiyyah",
+                "start": 29
+            },
+            {
+                "end": 36,
+                "rule": "madd_246",
+                "start": 35
+            }
+        ],
+        "verse_1": [],
+        "verse_2": [
+            {
+                "end": 6,
+                "rule": "ikhfa",
+                "start": 2
+            },
+            {
+                "end": 8,
+                "rule": "madd_muttasil",
+                "start": 6
+            },
+            {
+                "end": 14,
+                "rule": "hamzat_wasl",
+                "start": 13
+            }
+        ],
+        "verse_3": [
+            {
+                "end": 10,
+                "rule": "qalqalah",
+                "start": 8
+            },
+            {
+                "end": 26,
+                "rule": "madd_2",
+                "start": 25
+            }
+        ],
+        "verse_4": [
+            {
+                "end": 23,
+                "rule": "ikhfa",
+                "start": 20
+            },
+            {
+                "end": 29,
+                "rule": "hamzat_wasl",
+                "start": 28
+            },
+            {
+                "end": 30,
+                "rule": "lam_shamsiyyah",
+                "start": 29
+            }
+        ],
+        "verse_5": [
+            {
+                "end": 5,
+                "rule": "ghunnah",
+                "start": 2
+            },
+            {
+                "end": 13,
+                "rule": "hamzat_wasl",
+                "start": 12
+            }
+        ],
+        "verse_6": [
+            {
+                "end": 7,
+                "rule": "ikhfa",
+                "start": 4
+            },
+            {
+                "end": 13,
+                "rule": "madd_2",
+                "start": 12
+            }
+        ],
+        "verse_7": [],
+        "verse_8": [
+            {
+                "end": 7,
+                "rule": "ghunnah",
+                "start": 4
+            },
+            {
+                "end": 15,
+                "rule": "ikhfa",
+                "start": 11
+            },
+            {
+                "end": 17,
+                "rule": "madd_muttasil",
+                "start": 15
+            }
+        ],
+        "verse_9": [],
+        "verse_10": [
+            {
+                "end": 7,
+                "rule": "ikhfa",
+                "start": 4
+            }
+        ],
+        "verse_11": [
+            {
+                "end": 7,
+                "rule": "madd_munfasil",
+                "start": 5
+            },
+            {
+                "end": 13,
+                "rule": "ghunnah",
+                "start": 10
+            }
+        ],
+        "verse_12": [
+            {
+                "end": 8,
+                "rule": "ikhfa",
+                "start": 4
+            },
+            {
+                "end": 10,
+                "rule": "madd_muttasil",
+                "start": 8
+            }
+        ],
+        "verse_13": [
+            {
+                "end": 14,
+                "rule": "idghaam_ghunnah",
+                "start": 9
+            }
+        ],
+        "verse_14": [
+            {
+                "end": 16,
+                "rule": "idghaam_ghunnah",
+                "start": 11
+            }
+        ],
+        "verse_15": [],
+        "verse_16": [
+            {
+                "end": 10,
+                "rule": "iqlab",
+                "start": 6
+            }
+        ],
+        "verse_17": [
+            {
+                "end": 8,
+                "rule": "hamzat_wasl",
+                "start": 7
+            },
+            {
+                "end": 15,
+                "rule": "ikhfa",
+                "start": 12
+            },
+            {
+                "end": 16,
+                "rule": "madd_2",
+                "start": 15
+            },
+            {
+                "end": 23,
+                "rule": "madd_munfasil",
+                "start": 21
+            }
+        ],
+        "verse_18": [],
+        "verse_19": [
+            {
+                "end": 7,
+                "rule": "idghaam_ghunnah",
+                "start": 2
+            },
+            {
+                "end": 9,
+                "rule": "qalqalah",
+                "start": 7
+            },
+            {
+                "end": 23,
+                "rule": "madd_2",
+                "start": 22
+            }
+        ],
+        "verse_20": [
+            {
+                "end": 5,
+                "rule": "ghunnah",
+                "start": 2
+            },
+            {
+                "end": 7,
+                "rule": "hamzat_wasl",
+                "start": 6
+            },
+            {
+                "end": 8,
+                "rule": "lam_shamsiyyah",
+                "start": 7
+            }
+        ],
+        "verse_21": [
+            {
+                "end": 5,
+                "rule": "ghunnah",
+                "start": 2
+            },
+            {
+                "end": 16,
+                "rule": "madd_2",
+                "start": 15
+            },
+            {
+                "end": 23,
+                "rule": "qalqalah",
+                "start": 21
+            }
+        ],
+        "verse_22": [
+            {
+                "end": 5,
+                "rule": "ghunnah",
+                "start": 2
+            },
+            {
+                "end": 16,
+                "rule": "madd_muttasil",
+                "start": 14
+            },
+            {
+                "end": 24,
+                "rule": "ikhfa",
+                "start": 21
+            }
+        ],
+        "verse_23": [
+            {
+                "end": 12,
+                "rule": "ghunnah",
+                "start": 9
+            },
+            {
+                "end": 18,
+                "rule": "qalqalah",
+                "start": 16
+            },
+            {
+                "end": 25,
+                "rule": "madd_munfasil",
+                "start": 23
+            }
+        ],
+        "verse_24": [
+            {
+                "end": 9,
+                "rule": "ikhfa",
+                "start": 6
+            },
+            {
+                "end": 13,
+                "rule": "hamzat_wasl",
+                "start": 12
+            },
+            {
+                "end": 20,
+                "rule": "ikhfa",
+                "start": 17
+            },
+            {
+                "end": 21,
+                "rule": "madd_2",
+                "start": 20
+            }
+        ],
+        "verse_25": [
+            {
+                "end": 5,
+                "rule": "ghunnah",
+                "start": 2
+            },
+            {
+                "end": 13,
+                "rule": "qalqalah",
+                "start": 11
+            },
+            {
+                "end": 18,
+                "rule": "hamzat_wasl",
+                "start": 17
+            },
+            {
+                "end": 24,
+                "rule": "madd_muttasil",
+                "start": 22
+            }
+        ],
+        "verse_26": [
+            {
+                "end": 5,
+                "rule": "ghunnah",
+                "start": 2
+            },
+            {
+                "end": 12,
+                "rule": "qalqalah",
+                "start": 10
+            },
+            {
+                "end": 17,
+                "rule": "hamzat_wasl",
+                "start": 16
+            }
+        ],
+        "verse_27": [
+            {
+                "end": 7,
+                "rule": "iqlab",
+                "start": 5
+            }
+        ],
+        "verse_28": [
+            {
+                "end": 12,
+                "rule": "idghaam_ghunnah",
+                "start": 7
+            }
+        ],
+        "verse_29": [
+            {
+                "end": 15,
+                "rule": "idghaam_ghunnah",
+                "start": 10
+            }
+        ],
+        "verse_30": [
+            {
+                "end": 8,
+                "rule": "madd_muttasil",
+                "start": 6
+            }
+        ],
+        "verse_31": [
+            {
+                "end": 5,
+                "rule": "madd_2",
+                "start": 4
+            },
+            {
+                "end": 14,
+                "rule": "idghaam_ghunnah",
+                "start": 10
+            }
+        ],
+        "verse_32": [
+            {
+                "end": 6,
+                "rule": "madd_2",
+                "start": 5
+            },
+            {
+                "end": 13,
+                "rule": "idghaam_no_ghunnah",
+                "start": 7
+            },
+            {
+                "end": 29,
+                "rule": "madd_2",
+                "start": 28
+            }
+        ],
+        "verse_33": [
+            {
+                "end": 12,
+                "rule": "madd_muttasil",
+                "start": 10
+            },
+            {
+                "end": 18,
+                "rule": "hamzat_wasl",
+                "start": 17
+            },
+            {
+                "end": 19,
+                "rule": "lam_shamsiyyah",
+                "start": 18
+            },
+            {
+                "end": 24,
+                "rule": "madd_6",
+                "start": 22
+            }
+        ],
+        "verse_34": [
+            {
+                "end": 16,
+                "rule": "hamzat_wasl",
+                "start": 15
+            },
+            {
+                "end": 35,
+                "rule": "madd_246",
+                "start": 34
+            }
+        ],
+        "verse_35": [
+            {
+                "end": 7,
+                "rule": "ghunnah",
+                "start": 4
+            },
+            {
+                "end": 10,
+                "rule": "madd_2",
+                "start": 9
+            },
+            {
+                "end": 18,
+                "rule": "madd_246",
+                "start": 17
+            }
+        ],
+        "verse_36": [
+            {
+                "end": 5,
+                "rule": "madd_2",
+                "start": 4
+            },
+            {
+                "end": 14,
+                "rule": "madd_2",
+                "start": 13
+            },
+            {
+                "end": 22,
+                "rule": "madd_246",
+                "start": 21
+            }
+        ],
+        "verse_37": [
+            {
+                "end": 9,
+                "rule": "hamzat_wasl",
+                "start": 8
+            },
+            {
+                "end": 19,
+                "rule": "idghaam_ghunnah",
+                "start": 14
+            },
+            {
+                "end": 39,
+                "rule": "ikhfa",
+                "start": 35
+            },
+            {
+                "end": 46,
+                "rule": "idghaam_ghunnah",
+                "start": 42
+            },
+            {
+                "end": 51,
+                "rule": "madd_246",
+                "start": 50
+            }
+        ],
+        "verse_38": [
+            {
+                "end": 10,
+                "rule": "idghaam_ghunnah",
+                "start": 6
+            },
+            {
+                "end": 22,
+                "rule": "idghaam_ghunnah",
+                "start": 17
+            }
+        ],
+        "verse_39": [
+            {
+                "end": 13,
+                "rule": "idghaam_ghunnah",
+                "start": 8
+            },
+            {
+                "end": 19,
+                "rule": "qalqalah",
+                "start": 17
+            }
+        ],
+        "verse_40": [
+            {
+                "end": 12,
+                "rule": "idghaam_ghunnah",
+                "start": 8
+            }
+        ],
+        "verse_41": [],
+        "verse_42": [
+            {
+                "end": 4,
+                "rule": "silent",
+                "start": 2
+            },
+            {
+                "end": 8,
+                "rule": "madd_muttasil",
+                "start": 6
+            },
+            {
+                "end": 19,
+                "rule": "hamzat_wasl",
+                "start": 18
+            },
+            {
+                "end": 31,
+                "rule": "hamzat_wasl",
+                "start": 30
+            }
+        ]
+    },
+    "count": 42
+}
