@@ -1,5 +1,5 @@
 {
-    "index": "006",
+    "index": 6,
     "name": "al-An'am",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -172,14 +172,14 @@
     "count": 165,
     "juz": [
         {
-            "index": "07",
+            "index": 7,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_110"
             }
         },
         {
-            "index": "08",
+            "index": 8,
             "verse": {
                 "start": "verse_111",
                 "end": "verse_165"

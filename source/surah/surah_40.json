@@ -1,5 +1,5 @@
 {
-    "index": "040",
+    "index": 40,
     "name": "Ghafir",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -92,7 +92,7 @@
     "count": 85,
     "juz": [
         {
-            "index": "24",
+            "index": 24,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_85"

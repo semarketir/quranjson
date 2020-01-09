@@ -1,5 +1,5 @@
 {
-    "index": "101",
+    "index": 101,
     "name": "al-Qari'ah",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -18,7 +18,7 @@
     "count": 11,
     "juz": [
         {
-            "index": "30",
+            "index": 30,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_11"

@@ -1,5 +1,5 @@
 {
-    "index": "072",
+    "index": 72,
     "name": "al-Jinn",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -35,7 +35,7 @@
     "count": 28,
     "juz": [
         {
-            "index": "29",
+            "index": 29,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_28"

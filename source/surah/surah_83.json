@@ -1,5 +1,5 @@
 {
-    "index": "083",
+    "index": 83,
     "name": "Al-Mutaffifin",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -43,7 +43,7 @@
     "count": 36,
     "juz": [
         {
-            "index": "30",
+            "index": 30,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_36"

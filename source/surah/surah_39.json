@@ -1,5 +1,5 @@
 {
-    "index": "039",
+    "index": 39,
     "name": "az-Zumar",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -82,14 +82,14 @@
     "count": 75,
     "juz": [
         {
-            "index": "23",
+            "index": 23,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_31"
             }
         },
         {
-            "index": "24",
+            "index": 24,
             "verse": {
                 "start": "verse_32",
                 "end": "verse_75"

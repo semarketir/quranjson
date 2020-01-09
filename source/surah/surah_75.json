@@ -1,5 +1,5 @@
 {
-    "index": "075",
+    "index": 75,
     "name": "al-Qiyamah",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -47,7 +47,7 @@
     "count": 40,
     "juz": [
         {
-            "index": "29",
+            "index": 29,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_40"

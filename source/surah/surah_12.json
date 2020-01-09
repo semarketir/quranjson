@@ -1,5 +1,5 @@
 {
-    "index": "012",
+    "index": 12,
     "name": "Yusuf",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -118,14 +118,14 @@
     "count": 111,
     "juz": [
         {
-            "index": "12",
+            "index": 12,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_52"
             }
         },
         {
-            "index": "13",
+            "index": 13,
             "verse": {
                 "start": "verse_53",
                 "end": "verse_111"

@@ -1,5 +1,5 @@
 {
-    "index": "066",
+    "index": 66,
     "name": "at-Tahrim",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -19,7 +19,7 @@
     "count": 12,
     "juz": [
         {
-            "index": "28",
+            "index": 28,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_12"

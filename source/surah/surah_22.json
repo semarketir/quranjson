@@ -1,5 +1,5 @@
 {
-    "index": "022",
+    "index": 22,
     "name": "al-Hajj",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -85,7 +85,7 @@
     "count": 78,
     "juz": [
         {
-            "index": "17",
+            "index": 17,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_78"

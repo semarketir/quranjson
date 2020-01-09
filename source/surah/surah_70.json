@@ -1,5 +1,5 @@
 {
-    "index": "070",
+    "index": 70,
     "name": "al-Ma'arij",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -51,7 +51,7 @@
     "count": 44,
     "juz": [
         {
-            "index": "29",
+            "index": 29,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_44"

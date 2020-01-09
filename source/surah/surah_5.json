@@ -1,5 +1,5 @@
 {
-    "index": "005",
+    "index": 5,
     "name": "al-Mai'dah",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -127,14 +127,14 @@
     "count": 120,
     "juz": [
         {
-            "index": "06",
+            "index": 6,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_81"
             }
         },
         {
-            "index": "07",
+            "index": 7,
             "verse": {
                 "start": "verse_82",
                 "end": "verse_120"

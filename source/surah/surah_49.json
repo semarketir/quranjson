@@ -1,5 +1,5 @@
 {
-    "index": "049",
+    "index": 49,
     "name": "al-Hujurat",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -25,7 +25,7 @@
     "count": 18,
     "juz": [
         {
-            "index": "26",
+            "index": 26,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_18"

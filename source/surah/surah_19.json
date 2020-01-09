@@ -1,5 +1,5 @@
 {
-    "index": "019",
+    "index": 19,
     "name": "Maryam",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -105,7 +105,7 @@
     "count": 98,
     "juz": [
         {
-            "index": "16",
+            "index": 16,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_98"

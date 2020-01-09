@@ -1,5 +1,5 @@
 {
-    "index": "076",
+    "index": 76,
     "name": "al-Insan",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -38,7 +38,7 @@
     "count": 31,
     "juz": [
         {
-            "index": "29",
+            "index": 29,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_31"

@@ -1,5 +1,5 @@
 {
-    "index": "086",
+    "index": 86,
     "name": "At-Tariq",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -24,7 +24,7 @@
     "count": 17,
     "juz": [
         {
-            "index": "30",
+            "index": 30,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_17"

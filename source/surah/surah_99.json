@@ -1,5 +1,5 @@
 {
-    "index": "099",
+    "index": 99,
     "name": "al-Zalzalah",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -15,7 +15,7 @@
     "count": 8,
     "juz": [
         {
-            "index": "30",
+            "index": 30,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_8"

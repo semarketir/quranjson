@@ -1,5 +1,5 @@
 {
-    "index": "111",
+    "index": 111,
     "name": "Al-Masad",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -12,7 +12,7 @@
     "count": 5,
     "juz": [
         {
-            "index": "30",
+            "index": 30,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_5"

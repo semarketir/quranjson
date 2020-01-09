@@ -1,5 +1,5 @@
 {
-    "index": "042",
+    "index": 42,
     "verse": {
         "verse_0": [
             {
@@ -49,7 +49,7 @@
             {
                 "end": 2,
                 "rule": "madd_6",
-                "start": 0
+                "start": 
             },
             {
                 "end": 4,

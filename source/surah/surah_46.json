@@ -1,5 +1,5 @@
 {
-    "index": "046",
+    "index": 46,
     "name": "al-Ahqaf",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -42,7 +42,7 @@
     "count": 35,
     "juz": [
         {
-            "index": "26",
+            "index": 26,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_35"

@@ -1,5 +1,5 @@
 {
-    "index": "053",
+    "index": 53,
     "name": "an-Najm",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -69,7 +69,7 @@
     "count": 62,
     "juz": [
         {
-            "index": "27",
+            "index": 27,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_62"

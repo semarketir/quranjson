@@ -1,5 +1,5 @@
 {
-    "index": "038",
+    "index": 38,
     "name": "Sad",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -95,7 +95,7 @@
     "count": 88,
     "juz": [
         {
-            "index": "23",
+            "index": 23,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_88"

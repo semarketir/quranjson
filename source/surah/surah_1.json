@@ -1,5 +1,5 @@
 {
-    "index": "001",
+    "index": 1,
     "name": "al-Fatihah",
     "verse": {
         "verse_1": "﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
@@ -13,7 +13,7 @@
     "count": 7,
     "juz": [
         {
-            "index": "01",
+            "index": 1,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_7"

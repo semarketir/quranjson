@@ -1,5 +1,5 @@
 {
-    "index": "030",
+    "index": 30,
     "name": "ar-Rum",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -67,7 +67,7 @@
     "count": 60,
     "juz": [
         {
-            "index": "21",
+            "index": 21,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_60"

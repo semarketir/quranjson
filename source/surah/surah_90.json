@@ -1,5 +1,5 @@
 {
-    "index": "090",
+    "index": 90,
     "name": "al-Balad",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -27,7 +27,7 @@
     "count": 20,
     "juz": [
         {
-            "index": "30",
+            "index": 30,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_20"

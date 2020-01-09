@@ -1,5 +1,5 @@
 {
-    "index": "036",
+    "index": 36,
     "name": "Yasin",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -90,14 +90,14 @@
     "count": 83,
     "juz": [
         {
-            "index": "22",
+            "index": 22,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_27"
             }
         },
         {
-            "index": "23",
+            "index": 23,
             "verse": {
                 "start": "verse_28",
                 "end": "verse_83"

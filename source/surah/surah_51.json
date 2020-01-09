@@ -1,5 +1,5 @@
 {
-    "index": "051",
+    "index": 51,
     "name": "Adh-Dhariyat",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -67,14 +67,14 @@
     "count": 60,
     "juz": [
         {
-            "index": "26",
+            "index": 26,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_30"
             }
         },
         {
-            "index": "27",
+            "index": 27,
             "verse": {
                 "start": "verse_31",
                 "end": "verse_60"

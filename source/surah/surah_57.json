@@ -1,5 +1,5 @@
 {
-    "index": "057",
+    "index": 57,
     "name": "al-Hadid",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -36,7 +36,7 @@
     "count": 29,
     "juz": [
         {
-            "index": "27",
+            "index": 27,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_29"

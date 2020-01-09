@@ -1,5 +1,5 @@
 {
-    "index": "028",
+    "index": 28,
     "name": "Al-Qasas",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -95,7 +95,7 @@
     "count": 88,
     "juz": [
         {
-            "index": "20",
+            "index": 20,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_88"

@@ -1,5 +1,5 @@
 {
-    "index": "042",
+    "index": 42,
     "name": "Ash-Shuraa",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -60,7 +60,7 @@
     "count": 53,
     "juz": [
         {
-            "index": "25",
+            "index": 25,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_53"

@@ -1,5 +1,5 @@
 {
-    "index": "002",
+    "index": 2,
     "name": "al-Baqarah",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -293,21 +293,21 @@
     "count": 286,
     "juz": [
         {
-            "index": "01",
+            "index": 1,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_141"
             }
         },
         {
-            "index": "02",
+            "index": 2,
             "verse": {
                 "start": "verse_142",
                 "end": "verse_252"
             }
         },
         {
-            "index": "03",
+            "index": 3,
             "verse": {
                 "start": "verse_253",
                 "end": "verse_286"

@@ -1,5 +1,5 @@
 {
-    "index": "009",
+    "index": 9,
     "name": "at-Taubah",
     "verse": {
         "verse_1": "بَرَآءَةٌۭ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلَّذِينَ عَٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ",
@@ -135,14 +135,14 @@
     "count": 129,
     "juz": [
         {
-            "index": "10",
+            "index": 10,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_92"
             }
         },
         {
-            "index": "11",
+            "index": 11,
             "verse": {
                 "start": "verse_93",
                 "end": "verse_129"

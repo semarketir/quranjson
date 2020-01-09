@@ -1,5 +1,5 @@
 {
-    "index": "060",
+    "index": 60,
     "name": "al-Mumtahanah",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -20,7 +20,7 @@
     "count": 13,
     "juz": [
         {
-            "index": "28",
+            "index": 28,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_13"

@@ -1,5 +1,5 @@
 {
-    "index": "088",
+    "index": 88,
     "name": "Al-Ghashiyah",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -33,7 +33,7 @@
     "count": 26,
     "juz": [
         {
-            "index": "30",
+            "index": 30,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_26"

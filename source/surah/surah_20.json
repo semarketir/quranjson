@@ -1,5 +1,5 @@
 {
-    "index": "020",
+    "index": 20,
     "name": "Taha",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -142,7 +142,7 @@
     "count": 135,
     "juz": [
         {
-            "index": "16",
+            "index": 16,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_135"

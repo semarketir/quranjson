@@ -1,5 +1,5 @@
 {
-    "index": "031",
+    "index": 31,
     "name": "Luqman",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -41,7 +41,7 @@
     "count": 34,
     "juz": [
         {
-            "index": "21",
+            "index": 21,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_34"

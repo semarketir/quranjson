@@ -1,5 +1,5 @@
 {
-    "index": "063",
+    "index": 63,
     "name": "al-Munafiqqun",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -18,7 +18,7 @@
     "count": 11,
     "juz": [
         {
-            "index": "28",
+            "index": 28,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_11"

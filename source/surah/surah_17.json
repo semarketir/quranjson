@@ -1,5 +1,5 @@
 {
-    "index": "017",
+    "index": 17,
     "name": "al-Isra'",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -118,7 +118,7 @@
     "count": 111,
     "juz": [
         {
-            "index": "15",
+            "index": 15,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_111"

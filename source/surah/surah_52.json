@@ -1,5 +1,5 @@
 {
-    "index": "052",
+    "index": 52,
     "name": "At-Tur",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -56,7 +56,7 @@
     "count": 49,
     "juz": [
         {
-            "index": "27",
+            "index": 27,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_49"

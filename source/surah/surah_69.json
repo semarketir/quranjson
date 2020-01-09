@@ -1,5 +1,5 @@
 {
-    "index": "069",
+    "index": 69,
     "name": "al-Haqqah",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -59,7 +59,7 @@
     "count": 52,
     "juz": [
         {
-            "index": "29",
+            "index": 29,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_52"
