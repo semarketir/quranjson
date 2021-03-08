@@ -1,5 +1,5 @@
 {
-    "index": "047",
+    "index": 47,
     "name": "Muhammad",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -45,7 +45,7 @@
     "count": 38,
     "juz": [
         {
-            "index": "26",
+            "index": 26,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_38"

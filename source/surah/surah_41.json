@@ -1,5 +1,5 @@
 {
-    "index": "041",
+    "index": 41,
     "name": "Fussilat",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -61,14 +61,14 @@
     "count": 54,
     "juz": [
         {
-            "index": "24",
+            "index": 24,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_46"
             }
         },
         {
-            "index": "25",
+            "index": 25,
             "verse": {
                 "start": "verse_47",
                 "end": "verse_54"

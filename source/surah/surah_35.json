@@ -1,5 +1,5 @@
 {
-    "index": "035",
+    "index": 35,
     "name": "Fatir",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -52,7 +52,7 @@
     "count": 45,
     "juz": [
         {
-            "index": "22",
+            "index": 22,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_45"

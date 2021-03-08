@@ -1,5 +1,5 @@
 {
-    "index": "081",
+    "index": 81,
     "name": "at-Takwir",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -36,7 +36,7 @@
     "count": 29,
     "juz": [
         {
-            "index": "30",
+            "index": 30,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_29"

@@ -1,5 +1,5 @@
 {
-    "index": "025",
+    "index": 25,
     "name": "al-Furqan",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -84,14 +84,14 @@
     "count": 77,
     "juz": [
         {
-            "index": "18",
+            "index": 18,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_20"
             }
         },
         {
-            "index": "19",
+            "index": 19,
             "verse": {
                 "start": "verse_21",
                 "end": "verse_77"

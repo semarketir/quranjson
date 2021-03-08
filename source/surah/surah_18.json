@@ -1,5 +1,5 @@
 {
-    "index": "018",
+    "index": 18,
     "name": "al-Kahfi",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -117,14 +117,14 @@
     "count": 110,
     "juz": [
         {
-            "index": "15",
+            "index": 15,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_74"
             }
         },
         {
-            "index": "16",
+            "index": 16,
             "verse": {
                 "start": "verse_75",
                 "end": "verse_110"

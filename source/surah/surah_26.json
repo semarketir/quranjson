@@ -1,5 +1,5 @@
 {
-    "index": "026",
+    "index": 26,
     "name": "Ash-Shu'ara",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -234,7 +234,7 @@
     "count": 227,
     "juz": [
         {
-            "index": "19",
+            "index": 19,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_227"

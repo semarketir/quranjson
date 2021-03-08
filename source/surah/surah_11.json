@@ -1,5 +1,5 @@
 {
-    "index": "011",
+    "index": 11,
     "name": "Hud",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -130,14 +130,14 @@
     "count": 123,
     "juz": [
         {
-            "index": "11",
+            "index": 11,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_5"
             }
         },
         {
-            "index": "12",
+            "index": 12,
             "verse": {
                 "start": "verse_6",
                 "end": "verse_123"

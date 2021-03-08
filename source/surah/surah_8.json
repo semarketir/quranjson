@@ -1,5 +1,5 @@
 {
-    "index": "008",
+    "index": 8,
     "name": "al-Anfal",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -82,14 +82,14 @@
     "count": 75,
     "juz": [
         {
-            "index": "09",
+            "index": 9,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_40"
             }
         },
         {
-            "index": "10",
+            "index": 10,
             "verse": {
                 "start": "verse_41",
                 "end": "verse_75"

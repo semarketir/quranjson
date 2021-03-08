@@ -1,5 +1,5 @@
 {
-    "index": "010",
+    "index": 10,
     "name": "Yunus",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -116,7 +116,7 @@
     "count": 109,
     "juz": [
         {
-            "index": "12",
+            "index": 12,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_109"

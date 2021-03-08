@@ -1,5 +1,5 @@
 {
-    "index": "003",
+    "index": 3,
     "name": "Ali Imran",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -207,14 +207,14 @@
     "count": 200,
     "juz": [
         {
-            "index": "03",
+            "index": 3,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_92"
             }
         },
         {
-            "index": "04",
+            "index": 4,
             "verse": {
                 "start": "verse_93",
                 "end": "verse_200"

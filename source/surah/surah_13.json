@@ -1,5 +1,5 @@
 {
-    "index": "013",
+    "index": 13,
     "name": "ar-Ra'd",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -50,7 +50,7 @@
     "count": 43,
     "juz": [
         {
-            "index": "13",
+            "index": 13,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_43"

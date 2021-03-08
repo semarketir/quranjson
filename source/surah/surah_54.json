@@ -1,5 +1,5 @@
 {
-    "index": "054",
+    "index": 54,
     "name": "al-Qamar",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -62,7 +62,7 @@
     "count": 55,
     "juz": [
         {
-            "index": "27",
+            "index": 27,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_55"

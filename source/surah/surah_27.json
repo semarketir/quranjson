@@ -1,5 +1,5 @@
 {
-    "index": "027",
+    "index": 27,
     "name": "an-Naml",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -100,14 +100,14 @@
     "count": 93,
     "juz": [
         {
-            "index": "19",
+            "index": 19,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_55"
             }
         },
         {
-            "index": "20",
+            "index": 20,
             "verse": {
                 "start": "verse_56",
                 "end": "verse_93"

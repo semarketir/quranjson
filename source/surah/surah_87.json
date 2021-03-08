@@ -1,5 +1,5 @@
 {
-    "index": "087",
+    "index": 87,
     "name": "al-A'la",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -26,7 +26,7 @@
     "count": 19,
     "juz": [
         {
-            "index": "30",
+            "index": 30,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_19"

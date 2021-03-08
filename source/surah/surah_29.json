@@ -1,5 +1,5 @@
 {
-    "index": "029",
+    "index": 29,
     "name": "al-'Ankabut",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -76,14 +76,14 @@
     "count": 69,
     "juz": [
         {
-            "index": "20",
+            "index": 20,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_45"
             }
         },
         {
-            "index": "21",
+            "index": 21,
             "verse": {
                 "start": "verse_46",
                 "end": "verse_69"

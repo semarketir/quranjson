@@ -1,5 +1,5 @@
 {
-    "index": "045",
+    "index": 45,
     "name": "Al-Jathiyah",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -44,7 +44,7 @@
     "count": 37,
     "juz": [
         {
-            "index": "25",
+            "index": 25,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_37"

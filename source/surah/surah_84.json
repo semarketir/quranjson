@@ -1,5 +1,5 @@
 {
-    "index": "084",
+    "index": 84,
     "name": "Al-Inshiqaq",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -32,7 +32,7 @@
     "count": 25,
     "juz": [
         {
-            "index": "30",
+            "index": 30,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_25"

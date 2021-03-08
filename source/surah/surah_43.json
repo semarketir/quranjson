@@ -1,5 +1,5 @@
 {
-    "index": "043",
+    "index": 43,
     "name": "az-Zukhruf",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -96,7 +96,7 @@
     "count": 89,
     "juz": [
         {
-            "index": "25",
+            "index": 25,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_89"

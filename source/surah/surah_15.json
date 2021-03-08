@@ -1,5 +1,5 @@
 {
-    "index": "015",
+    "index": 15,
     "name": "al-Hijr",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -106,7 +106,7 @@
     "count": 99,
     "juz": [
         {
-            "index": "14",
+            "index": 14,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_99"

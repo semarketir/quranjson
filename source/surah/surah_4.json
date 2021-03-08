@@ -1,5 +1,5 @@
 {
-    "index": "004",
+    "index": 4,
     "name": "an-Nisa'",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -183,21 +183,21 @@
     "count": 176,
     "juz": [
         {
-            "index": "04",
+            "index": 4,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_23"
             }
         },
         {
-            "index": "05",
+            "index": 5,
             "verse": {
                 "start": "verse_24",
                 "end": "verse_147"
             }
         },
         {
-            "index": "06",
+            "index": 6,
             "verse": {
                 "start": "verse_148",
                 "end": "verse_176"

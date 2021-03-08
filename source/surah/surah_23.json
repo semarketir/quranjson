@@ -1,5 +1,5 @@
 {
-    "index": "023",
+    "index": 23,
     "name": "al-Mu'minun",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -125,7 +125,7 @@
     "count": 118,
     "juz": [
         {
-            "index": "18",
+            "index": 18,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_118"

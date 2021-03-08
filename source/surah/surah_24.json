@@ -1,5 +1,5 @@
 {
-    "index": "024",
+    "index": 24,
     "name": "an-Nur",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -71,7 +71,7 @@
     "count": 64,
     "juz": [
         {
-            "index": "18",
+            "index": 18,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_64"

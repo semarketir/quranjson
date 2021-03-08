@@ -1,5 +1,5 @@
 {
-    "index": "107",
+    "index": 107,
     "name": "al-Ma'un",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -14,7 +14,7 @@
     "count": 7,
     "juz": [
         {
-            "index": "30",
+            "index": 30,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_7"

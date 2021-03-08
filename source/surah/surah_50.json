@@ -1,5 +1,5 @@
 {
-    "index": "050",
+    "index": 50,
     "name": "Qaf",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -52,7 +52,7 @@
     "count": 45,
     "juz": [
         {
-            "index": "26",
+            "index": 26,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_45"

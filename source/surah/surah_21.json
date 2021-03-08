@@ -1,5 +1,5 @@
 {
-    "index": "021",
+    "index": 21,
     "name": "al-Anbiya",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -119,7 +119,7 @@
     "count": 112,
     "juz": [
         {
-            "index": "17",
+            "index": 17,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_112"

@@ -5,11 +5,11 @@
         "count": 7,
         "title": "Al-Fatiha",
         "titleAr":"الفاتحة",
-        "index": "001",
-        "pages": "1",
+        "index": 1,
+        "pages": 1,
         "juz": [
             {
-                "index": "01",
+                "index": 1,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_7"
@@ -23,25 +23,25 @@
         "count": 286,
         "title": "Al-Baqara",
         "titleAr":"البقرة",
-        "index": "002",
-        "pages": "2",
+        "index": 2,
+        "pages": 2,
         "juz": [
             {
-                "index": "01",
+                "index": 1,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_141"
                 }
             },
             {
-                "index": "02",
+                "index": 2,
                 "verse": {
                     "start": "verse_142",
                     "end": "verse_252"
                 }
             },
             {
-                "index": "03",
+                "index": 3,
                 "verse": {
                     "start": "verse_253",
                     "end": "verse_286"
@@ -55,18 +55,18 @@
         "count": 200,
         "title": "Aal-Imran",
         "titleAr":"آل عمران",
-        "index": "003",
-        "pages": "45",
+        "index": 3,
+        "pages": 45,
         "juz": [
             {
-                "index": "03",
+                "index": 3,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_92"
                 }
             },
             {
-                "index": "04",
+                "index": 4,
                 "verse": {
                     "start": "verse_93",
                     "end": "verse_200"
@@ -80,25 +80,25 @@
         "count": 176,
         "title": "An-Nisaa'",
         "titleAr":"النساء",
-        "index": "004",
-        "pages": "69",
+        "index": 4,
+        "pages": 69,
         "juz": [
             {
-                "index": "04",
+                "index": 4,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_23"
                 }
             },
             {
-                "index": "05",
+                "index": 5,
                 "verse": {
                     "start": "verse_24",
                     "end": "verse_147"
                 }
             },
             {
-                "index": "06",
+                "index": 6,
                 "verse": {
                     "start": "verse_148",
                     "end": "verse_176"
@@ -112,18 +112,18 @@
         "count": 120,
         "title": "Al-Ma'ida",
         "titleAr":"المائدة",
-        "index": "005",
-        "pages": "95",
+        "index": 5,
+        "pages": 95,
         "juz": [
             {
-                "index": "06",
+                "index": 6,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_81"
                 }
             },
             {
-                "index": "07",
+                "index": 7,
                 "verse": {
                     "start": "verse_82",
                     "end": "verse_120"
@@ -137,18 +137,18 @@
         "count": 165,
         "title": "Al-An'am",
         "titleAr":"الأنعام",
-        "index": "006",
-        "pages": "115",
+        "index": 6,
+        "pages": 115,
         "juz": [
             {
-                "index": "07",
+                "index": 7,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_110"
                 }
             },
             {
-                "index": "08",
+                "index": 8,
                 "verse": {
                     "start": "verse_111",
                     "end": "verse_165"
@@ -162,18 +162,18 @@
         "count": 206,
         "title": "Al-A'raf",
         "titleAr":"الأعراف",
-        "index": "007",
-        "pages": "136",
+        "index": 7,
+        "pages": 136,
         "juz": [
             {
-                "index": "08",
+                "index": 8,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_87"
                 }
             },
             {
-                "index": "09",
+                "index": 9,
                 "verse": {
                     "start": "verse_88",
                     "end": "verse_206"
@@ -187,18 +187,18 @@
         "count": 75,
         "title": "Al-Anfal",
         "titleAr":"الأنفال",
-        "index": "008",
-        "pages": "160",
+        "index": 8,
+        "pages": 160,
         "juz": [
             {
-                "index": "09",
+                "index": 9,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_40"
                 }
             },
             {
-                "index": "10",
+                "index": 10,
                 "verse": {
                     "start": "verse_41",
                     "end": "verse_75"
@@ -212,18 +212,18 @@
         "count": 129,
         "title": "Al-Tawba",
         "titleAr":"التوبة",
-        "index": "009",
-        "pages": "169",
+        "index": 9,
+        "pages": 169,
         "juz": [
             {
-                "index": "10",
+                "index": 10,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_92"
                 }
             },
             {
-                "index": "11",
+                "index": 11,
                 "verse": {
                     "start": "verse_93",
                     "end": "verse_129"
@@ -237,11 +237,11 @@
         "count": 109,
         "title": "Yunus",
         "titleAr":"يونس",
-        "index": "010",
-        "pages": "187",
+        "index": 10,
+        "pages": 187,
         "juz": [
             {
-                "index": "11",
+                "index": 11,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_109"
@@ -255,18 +255,18 @@
         "count": 123,
         "title": "Hud",
         "titleAr":"هود",
-        "index": "011",
-        "pages": "199",
+        "index": 11,
+        "pages": 199,
         "juz": [
             {
-                "index": "11",
+                "index": 11,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_5"
                 }
             },
             {
-                "index": "12",
+                "index": 12,
                 "verse": {
                     "start": "verse_6",
                     "end": "verse_123"
@@ -280,18 +280,18 @@
         "count": 111,
         "title": "Yusuf",
         "titleAr":"يوسف",
-        "index": "012",
-        "pages": "212",
+        "index": 12,
+        "pages": 212,
         "juz": [
             {
-                "index": "12",
+                "index": 12,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_52"
                 }
             },
             {
-                "index": "13",
+                "index": 13,
                 "verse": {
                     "start": "verse_53",
                     "end": "verse_111"
@@ -305,11 +305,11 @@
         "count": 43,
         "title": "Ar-Ra'd",
         "titleAr":"الرعد",
-        "index": "013",
-        "pages": "225",
+        "index": 13,
+        "pages": 225,
         "juz": [
             {
-                "index": "13",
+                "index": 13,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_43"
@@ -323,11 +323,11 @@
         "count": 52,
         "title": "Ibrahim",
         "titleAr":"إبراهيم",
-        "index": "014",
-        "pages": "231",
+        "index": 14,
+        "pages": 231,
         "juz": [
             {
-                "index": "13",
+                "index": 13,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_52"
@@ -341,11 +341,11 @@
         "count": 99,
         "title": "Al-Hijr",
         "titleAr":"الحجر",
-        "index": "015",
-        "pages": "237",
+        "index": 15,
+        "pages": 237,
         "juz": [
             {
-                "index": "14",
+                "index": 14,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_99"
@@ -359,11 +359,11 @@
         "count": 128,
         "title": "An-Nahl",
         "titleAr":"النحل",
-        "index": "016",
-        "pages": "242",
+        "index": 16,
+        "pages": 242,
         "juz": [
             {
-                "index": "14",
+                "index": 14,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_128"
@@ -377,11 +377,11 @@
         "count": 111,
         "title": "Al-Israa",
         "titleAr":"الإسراء",
-        "index": "017",
-        "pages": "255",
+        "index": 17,
+        "pages": 255,
         "juz": [
             {
-                "index": "15",
+                "index": 15,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_111"
@@ -395,18 +395,18 @@
         "count": 110,
         "title": "Al-Kahf",
         "titleAr":"الكهف",
-        "index": "018",
-        "pages": "266",
+        "index": 18,
+        "pages": 266,
         "juz": [
             {
-                "index": "15",
+                "index": 15,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_74"
                 }
             },
             {
-                "index": "16",
+                "index": 16,
                 "verse": {
                     "start": "verse_75",
                     "end": "verse_110"
@@ -420,11 +420,11 @@
         "count": 98,
         "title": "Maryam",
         "titleAr":"مريم",
-        "index": "019",
-        "pages": "277",
+        "index": 19,
+        "pages": 277,
         "juz": [
             {
-                "index": "16",
+                "index": 16,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_98"
@@ -438,11 +438,11 @@
         "count": 135,
         "title": "Ta-Ha",
         "titleAr":"طه",
-        "index": "020",
-        "pages": "284",
+        "index": 20,
+        "pages": 284,
         "juz": [
             {
-                "index": "16",
+                "index": 16,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_135"
@@ -456,11 +456,11 @@
         "count": 112,
         "title": "Al-Anbiya",
         "titleAr":"الأنبياء",
-        "index": "021",
-        "pages": "294",
+        "index": 21,
+        "pages": 294,
         "juz": [
             {
-                "index": "17",
+                "index": 17,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_112"
@@ -474,11 +474,11 @@
         "count": 78,
         "title": "Al-Hajj",
         "titleAr":"الحج",
-        "index": "022",
-        "pages": "302",
+        "index": 22,
+        "pages": 302,
         "juz": [
             {
-                "index": "17",
+                "index": 17,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_78"
@@ -492,11 +492,11 @@
         "count": 118,
         "title": "Al-Muminun",
         "titleAr":"المؤمنون",
-        "index": "023",
-        "pages": "311",
+        "index": 23,
+        "pages": 311,
         "juz": [
             {
-                "index": "18",
+                "index": 18,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_118"
@@ -510,11 +510,11 @@
         "count": 64,
         "title": "An-Nur",
         "titleAr":"النور",
-        "index": "024",
-        "pages": "319",
+        "index": 24,
+        "pages": 319,
         "juz": [
             {
-                "index": "18",
+                "index": 18,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_64"
@@ -528,18 +528,18 @@
         "count": 77,
         "title": "Al-Furqan",
         "titleAr":"الفرقان",
-        "index": "025",
-        "pages": "329",
+        "index": 25,
+        "pages": 329,
         "juz": [
             {
-                "index": "18",
+                "index": 18,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_20"
                 }
             },
             {
-                "index": "19",
+                "index": 19,
                 "verse": {
                     "start": "verse_21",
                     "end": "verse_77"
@@ -553,11 +553,11 @@
         "count": 227,
         "title": "Ash-Shuara",
         "titleAr":"الشعراء",
-        "index": "026",
-        "pages": "335",
+        "index": 26,
+        "pages": 335,
         "juz": [
             {
-                "index": "19",
+                "index": 19,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_227"
@@ -571,18 +571,18 @@
         "count": 93,
         "title": "An-Naml",
         "titleAr":"النمل",
-        "index": "027",
-        "pages": "345",
+        "index": 27,
+        "pages": 345,
         "juz": [
             {
-                "index": "19",
+                "index": 19,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_55"
                 }
             },
             {
-                "index": "20",
+                "index": 20,
                 "verse": {
                     "start": "verse_56",
                     "end": "verse_93"
@@ -596,11 +596,11 @@
         "count": 88,
         "title": "Al-Qasas",
         "titleAr":"القصص",
-        "index": "028",
-        "pages": "354",
+        "index": 28,
+        "pages": 354,
         "juz": [
             {
-                "index": "20",
+                "index": 20,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_88"
@@ -614,18 +614,18 @@
         "count": 69,
         "title": "Al-Ankabut",
         "titleAr":"العنكبوت",
-        "index": "029",
-        "pages": "364",
+        "index": 29,
+        "pages": 364,
         "juz": [
             {
-                "index": "20",
+                "index": 20,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_45"
                 }
             },
             {
-                "index": "21",
+                "index": 21,
                 "verse": {
                     "start": "verse_46",
                     "end": "verse_69"
@@ -639,11 +639,11 @@
         "count": 60,
         "title": "Ar-Rum",
         "titleAr":"الروم",
-        "index": "030",
-        "pages": "371",
+        "index": 30,
+        "pages": 371,
         "juz": [
             {
-                "index": "21",
+                "index": 21,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_60"
@@ -657,11 +657,11 @@
         "count": 34,
         "title": "Luqman",
         "titleAr":"لقمان",
-        "index": "031",
-        "pages": "377",
+        "index": 31,
+        "pages": 377,
         "juz": [
             {
-                "index": "21",
+                "index": 21,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_34"
@@ -675,11 +675,11 @@
         "count": 30,
         "title": "As-Sajdah",
         "titleAr":"السجدة",
-        "index": "032",
-        "pages": "381",
+        "index": 32,
+        "pages": 381,
         "juz": [
             {
-                "index": "21",
+                "index": 21,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_30"
@@ -693,18 +693,18 @@
         "count": 73,
         "title": "Al-Ahzab",
         "titleAr":"الأحزاب",
-        "index": "033",
-        "pages": "383",
+        "index": 33,
+        "pages": 383,
         "juz": [
             {
-                "index": "21",
+                "index": 21,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_30"
                 }
             },
             {
-                "index": "22",
+                "index": 22,
                 "verse": {
                     "start": "verse_31",
                     "end": "verse_73"
@@ -718,11 +718,11 @@
         "count": 54,
         "title": "Saba",
         "titleAr":"سبأ",
-        "index": "034",
-        "pages": "393",
+        "index": 34,
+        "pages": 393,
         "juz": [
             {
-                "index": "22",
+                "index": 22,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_54"
@@ -736,11 +736,11 @@
         "count": 45,
         "title": "Fatir",
         "titleAr":"فاطر",
-        "index": "035",
-        "pages": "399",
+        "index": 35,
+        "pages": 399,
         "juz": [
             {
-                "index": "22",
+                "index": 22,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_45"
@@ -754,18 +754,18 @@
         "count": 83,
         "title": "Yasin",
         "titleAr":"يس",
-        "index": "036",
-        "pages": "404",
+        "index": 36,
+        "pages": 404,
         "juz": [
             {
-                "index": "22",
+                "index": 22,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_27"
                 }
             },
             {
-                "index": "23",
+                "index": 23,
                 "verse": {
                     "start": "verse_28",
                     "end": "verse_83"
@@ -779,11 +779,11 @@
         "count": 182,
         "title": "As-Saffat",
         "titleAr":"الصافات",
-        "index": "037",
-        "pages": "410",
+        "index": 37,
+        "pages": 410,
         "juz": [
             {
-                "index": "23",
+                "index": 23,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_182"
@@ -797,11 +797,11 @@
         "count": 88,
         "title": "Sad",
         "titleAr":"ص",
-        "index": "038",
-        "pages": "417",
+        "index": 38,
+        "pages": 417,
         "juz": [
             {
-                "index": "23",
+                "index": 23,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_88"
@@ -815,18 +815,18 @@
         "count": 75,
         "title": "Az-Zumar",
         "titleAr":"الزمر",
-        "index": "039",
-        "pages": "422",
+        "index": 39,
+        "pages": 422,
         "juz": [
             {
-                "index": "23",
+                "index": 23,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_31"
                 }
             },
             {
-                "index": "24",
+                "index": 24,
                 "verse": {
                     "start": "verse_32",
                     "end": "verse_75"
@@ -840,11 +840,11 @@
         "count": 85,
         "title": "Ghafir",
         "titleAr":"غافر",
-        "index": "040",
-        "pages": "431",
+        "index": 40,
+        "pages": 431,
         "juz": [
             {
-                "index": "24",
+                "index": 24,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_85"
@@ -858,18 +858,18 @@
         "count": 54,
         "title": "Fussilat",
         "titleAr":"فصلت",
-        "index": "041",
-        "pages": "439",
+        "index": 41,
+        "pages": 439,
         "juz": [
             {
-                "index": "24",
+                "index": 24,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_46"
                 }
             },
             {
-                "index": "25",
+                "index": 25,
                 "verse": {
                     "start": "verse_47",
                     "end": "verse_54"
@@ -883,11 +883,11 @@
         "count": 53,
         "title": "Ash-Shura",
         "titleAr":"الشورى",
-        "index": "042",
-        "pages": "445",
+        "index": 42,
+        "pages": 445,
         "juz": [
             {
-                "index": "25",
+                "index": 25,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_53"
@@ -901,11 +901,11 @@
         "count": 89,
         "title": "Az-Zukhruf",
         "titleAr":"الزخرف",
-        "index": "043",
-        "pages": "451",
+        "index": 43,
+        "pages": 451,
         "juz": [
             {
-                "index": "25",
+                "index": 25,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_89"
@@ -919,11 +919,11 @@
         "count": 59,
         "title": "Ad-Dukhan",
         "titleAr":"الدخان",
-        "index": "044",
-        "pages": "457",
+        "index": 44,
+        "pages": 457,
         "juz": [
             {
-                "index": "25",
+                "index": 25,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_59"
@@ -937,11 +937,11 @@
         "count": 37,
         "title": "Al-Jathiya",
         "titleAr":"الجاثية",
-        "index": "045",
-        "pages": "460",
+        "index": 45,
+        "pages": 460,
         "juz": [
             {
-                "index": "25",
+                "index": 25,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_37"
@@ -955,11 +955,11 @@
         "count": 35,
         "title": "Al-Ahqaf",
         "titleAr":"الأحقاف",
-        "index": "046",
-        "pages": "464",
+        "index": 46,
+        "pages": 464,
         "juz": [
             {
-                "index": "26",
+                "index": 26,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_35"
@@ -973,11 +973,11 @@
         "count": 38,
         "title": "Muhammad",
         "titleAr":"محمد",
-        "index": "047",
-        "pages": "468",
+        "index": 47,
+        "pages": 468,
         "juz": [
             {
-                "index": "26",
+                "index": 26,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_38"
@@ -991,11 +991,11 @@
         "count": 29,
         "title": "Al-Fath",
         "titleAr":"الفتح",
-        "index": "048",
-        "pages": "472",
+        "index": 48,
+        "pages": 472,
         "juz": [
             {
-                "index": "26",
+                "index": 26,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_29"
@@ -1009,11 +1009,11 @@
         "count": 18,
         "title": "Al-Hujurat",
         "titleAr":"الحجرات",
-        "index": "049",
-        "pages": "477",
+        "index": 49,
+        "pages": 477,
         "juz": [
             {
-                "index": "26",
+                "index": 26,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_18"
@@ -1027,11 +1027,11 @@
         "count": 45,
         "title": "Qaf",
         "titleAr":"ق",
-        "index": "050",
-        "pages": "479",
+        "index": 50,
+        "pages": 479,
         "juz": [
             {
-                "index": "26",
+                "index": 26,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_45"
@@ -1045,18 +1045,18 @@
         "count": 60,
         "title": "Az-Zariyat",
         "titleAr":"الذاريات",
-        "index": "051",
-        "pages": "482",
+        "index": 51,
+        "pages": 482,
         "juz": [
             {
-                "index": "26",
+                "index": 26,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_30"
                 }
             },
             {
-                "index": "27",
+                "index": 27,
                 "verse": {
                     "start": "verse_31",
                     "end": "verse_60"
@@ -1070,11 +1070,11 @@
         "count": 49,
         "title": "At-Tur",
         "titleAr":"الطور",
-        "index": "052",
-        "pages": "485",
+        "index": 52,
+        "pages": 485,
         "juz": [
             {
-                "index": "27",
+                "index": 27,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_49"
@@ -1088,11 +1088,11 @@
         "count": 62,
         "title": "An-Najm",
         "titleAr":"النجم",
-        "index": "053",
-        "pages": "487",
+        "index": 53,
+        "pages": 487,
         "juz": [
             {
-                "index": "27",
+                "index": 27,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_62"
@@ -1106,11 +1106,11 @@
         "count": 55,
         "title": "Al-Qamar",
         "titleAr":"القمر",
-        "index": "054",
-        "pages": "490",
+        "index": 54,
+        "pages": 490,
         "juz": [
             {
-                "index": "27",
+                "index": 27,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_55"
@@ -1124,11 +1124,11 @@
         "count": 78,
         "title": "Ar-Rahman",
         "titleAr":"الرحمن",
-        "index": "055",
-        "pages": "493",
+        "index": 55,
+        "pages": 493,
         "juz": [
             {
-                "index": "27",
+                "index": 27,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_78"
@@ -1142,11 +1142,11 @@
         "count": 96,
         "title": "Al-Waqia",
         "titleAr":"الواقعة",
-        "index": "056",
-        "pages": "496",
+        "index": 56,
+        "pages": 496,
         "juz": [
             {
-                "index": "27",
+                "index": 27,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_96"
@@ -1160,11 +1160,11 @@
         "count": 29,
         "title": "Al-Hadid",
         "titleAr":"الحديد",
-        "index": "057",
-        "pages": "499",
+        "index": 57,
+        "pages": 499,
         "juz": [
             {
-                "index": "27",
+                "index": 27,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_29"
@@ -1178,11 +1178,11 @@
         "count": 22,
         "title": "Al-Mujadilah",
         "titleAr":"المجادلة",
-        "index": "058",
-        "pages": "504",
+        "index": 58,
+        "pages": 504,
         "juz": [
             {
-                "index": "28",
+                "index": 28,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_22"
@@ -1196,11 +1196,11 @@
         "count": 24,
         "title": "Al-Hashr",
         "titleAr":"الحشر",
-        "index": "059",
-        "pages": "507",
+        "index": 59,
+        "pages": 507,
         "juz": [
             {
-                "index": "28",
+                "index": 28,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_24"
@@ -1214,11 +1214,11 @@
         "count": 13,
         "title": "Al-Mumtahinah",
         "titleAr":"الممتحنة",
-        "index": "060",
-        "pages": "510",
+        "index": 60,
+        "pages": 510,
         "juz": [
             {
-                "index": "28",
+                "index": 28,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_13"
@@ -1232,11 +1232,11 @@
         "count": 14,
         "title": "As-Saff",
         "titleAr":"الصف",
-        "index": "061",
-        "pages": "513",
+        "index": 61,
+        "pages": 513,
         "juz": [
             {
-                "index": "28",
+                "index": 28,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_14"
@@ -1250,11 +1250,11 @@
         "count": 11,
         "title": "Al-Jumu'ah",
         "titleAr":"الجمعة",
-        "index": "062",
-        "pages": "515",
+        "index": 62,
+        "pages": 515,
         "juz": [
             {
-                "index": "28",
+                "index": 28,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_11"
@@ -1268,11 +1268,11 @@
         "count": 11,
         "title": "Al-Munafiqun",
         "titleAr":"المنافقون",
-        "index": "063",
-        "pages": "516",
+        "index": 63,
+        "pages": 516,
         "juz": [
             {
-                "index": "28",
+                "index": 28,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_11"
@@ -1286,11 +1286,11 @@
         "count": 18,
         "title": "At-Taghabun",
         "titleAr":"التغابن",
-        "index": "064",
-        "pages": "518",
+        "index": 64,
+        "pages": 518,
         "juz": [
             {
-                "index": "28",
+                "index": 28,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_18"
@@ -1304,11 +1304,11 @@
         "count": 12,
         "title": "At-Talaq",
         "titleAr":"الطلاق",
-        "index": "065",
-        "pages": "520",
+        "index": 65,
+        "pages": 520,
         "juz": [
             {
-                "index": "28",
+                "index": 28,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_12"
@@ -1322,11 +1322,11 @@
         "count": 12,
         "title": "At-Tahrim",
         "titleAr":"التحريم",
-        "index": "066",
-        "pages": "522",
+        "index": 66,
+        "pages": 522,
         "juz": [
             {
-                "index": "28",
+                "index": 28,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_12"
@@ -1340,11 +1340,11 @@
         "count": 30,
         "title": "Al-Mulk",
         "titleAr":"الملك",
-        "index": "067",
-        "pages": "524",
+        "index": 67,
+        "pages": 524,
         "juz": [
             {
-                "index": "29",
+                "index": 29,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_30"
@@ -1358,11 +1358,11 @@
         "count": 52,
         "title": "Al-Qalam",
         "titleAr":"القلم",
-        "index": "068",
-        "pages": "526",
+        "index": 68,
+        "pages": 526,
         "juz": [
             {
-                "index": "29",
+                "index": 29,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_52"
@@ -1376,11 +1376,11 @@
         "count": 52,
         "title": "Al-Haqqah",
         "titleAr":"الحاقة",
-        "index": "069",
-        "pages": "529",
+        "index": 69,
+        "pages": 529,
         "juz": [
             {
-                "index": "29",
+                "index": 29,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_52"
@@ -1394,11 +1394,11 @@
         "count": 44,
         "title": "Al-Ma'arij",
         "titleAr":"المعارج",
-        "index": "070",
-        "pages": "531",
+        "index": 70,
+        "pages": 531,
         "juz": [
             {
-                "index": "29",
+                "index": 29,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_44"
@@ -1412,11 +1412,11 @@
         "count": 28,
         "title": "Nuh",
         "titleAr":"نوح",
-        "index": "071",
-        "pages": "533",
+        "index": 71,
+        "pages": 533,
         "juz": [
             {
-                "index": "29",
+                "index": 29,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_28"
@@ -1430,11 +1430,11 @@
         "count": 28,
         "title": "Al-Jinn",
         "titleAr":"الجن",
-        "index": "072",
-        "pages": "534",
+        "index": 72,
+        "pages": 534,
         "juz": [
             {
-                "index": "29",
+                "index": 29,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_28"
@@ -1448,11 +1448,11 @@
         "count": 20,
         "title": "Al-Muzzammil",
         "titleAr":"المزمل",
-        "index": "073",
-        "pages": "537",
+        "index": 73,
+        "pages": 537,
         "juz": [
             {
-                "index": "29",
+                "index": 29,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_20"
@@ -1466,11 +1466,11 @@
         "count": 56,
         "title": "Al-Muddaththir",
         "titleAr":"المدثر",
-        "index": "074",
-        "pages": "538",
+        "index": 74,
+        "pages": 538,
         "juz": [
             {
-                "index": "29",
+                "index": 29,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_56"
@@ -1484,11 +1484,11 @@
         "count": 40,
         "title": "Al-Qiyamah",
         "titleAr":"القيامة",
-        "index": "075",
-        "pages": "540",
+        "index": 75,
+        "pages": 540,
         "juz": [
             {
-                "index": "29",
+                "index": 29,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_40"
@@ -1502,11 +1502,11 @@
         "count": 31,
         "title": "Al-Insan",
         "titleAr":"الإنسان",
-        "index": "076",
-        "pages": "542",
+        "index": 76,
+        "pages": 542,
         "juz": [
             {
-                "index": "29",
+                "index": 29,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_31"
@@ -1520,11 +1520,11 @@
         "count": 50,
         "title": "Al-Mursalat",
         "titleAr":"المرسلات",
-        "index": "077",
-        "pages": "544",
+        "index": 77,
+        "pages": 544,
         "juz": [
             {
-                "index": "29",
+                "index": 29,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_50"
@@ -1538,11 +1538,11 @@
         "count": 40,
         "title": "An-Naba",
         "titleAr":"النبأ",
-        "index": "078",
-        "pages": "545",
+        "index": 78,
+        "pages": 545,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_40"
@@ -1556,11 +1556,11 @@
         "count": 46,
         "title": "An-Naziat",
         "titleAr":"النازعات",
-        "index": "079",
-        "pages": "547",
+        "index": 79,
+        "pages": 547,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_46"
@@ -1574,11 +1574,11 @@
         "count": 42,
         "title": "Abasa",
         "titleAr":"عبس",
-        "index": "080",
-        "pages": "548",
+        "index": 80,
+        "pages": 548,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_42"
@@ -1592,11 +1592,11 @@
         "count": 29,
         "title": "At-Takwir",
         "titleAr":"التكوير",
-        "index": "081",
-        "pages": "550",
+        "index": 81,
+        "pages": 550,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_29"
@@ -1610,11 +1610,11 @@
         "count": 19,
         "title": "Al-Infitar",
         "titleAr":"الإنفطار",
-        "index": "082",
-        "pages": "551",
+        "index": 82,
+        "pages": 551,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_19"
@@ -1628,11 +1628,11 @@
         "count": 36,
         "title": "Al-Mutaffifin",
         "titleAr":"المطففين",
-        "index": "083",
-        "pages": "552",
+        "index": 83,
+        "pages": 552,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_36"
@@ -1646,11 +1646,11 @@
         "count": 25,
         "title": "Al-Inshiqaq",
         "titleAr":"الإنشقاق",
-        "index": "084",
-        "pages": "553",
+        "index": 84,
+        "pages": 553,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_25"
@@ -1664,11 +1664,11 @@
         "count": 22,
         "title": "Al-Buruj",
         "titleAr":"البروج",
-        "index": "085",
-        "pages": "554",
+        "index": 85,
+        "pages": 554,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_22"
@@ -1682,11 +1682,11 @@
         "count": 17,
         "title": "At-Tariq",
         "titleAr":"الطارق",
-        "index": "086",
-        "pages": "555",
+        "index": 86,
+        "pages": 555,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_17"
@@ -1700,11 +1700,11 @@
         "count": 19,
         "title": "Al-Ala",
         "titleAr":"الأعلى",
-        "index": "087",
-        "pages": "556",
+        "index": 87,
+        "pages": 556,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_19"
@@ -1718,11 +1718,11 @@
         "count": 26,
         "title": "Al-Ghashiyah",
         "titleAr":"الغاشية",
-        "index": "088",
-        "pages": "556",
+        "index": 88,
+        "pages": 556,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_26"
@@ -1736,11 +1736,11 @@
         "count": 30,
         "title": "Al-Fajr",
         "titleAr":"الفجر",
-        "index": "089",
-        "pages": "557",
+        "index": 89,
+        "pages": 557,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_30"
@@ -1754,11 +1754,11 @@
         "count": 20,
         "title": "Al-Balad",
         "titleAr":"البلد",
-        "index": "090",
-        "pages": "559",
+        "index": 90,
+        "pages": 559,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_20"
@@ -1772,11 +1772,11 @@
         "count": 15,
         "title": "Ash-Shams",
         "titleAr":"الشمس",
-        "index": "091",
-        "pages": "559",
+        "index": 91,
+        "pages": 559,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_15"
@@ -1790,11 +1790,11 @@
         "count": 21,
         "title": "Al-Lail",
         "titleAr":"الليل",
-        "index": "092",
-        "pages": "560",
+        "index": 92,
+        "pages": 560,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_21"
@@ -1808,11 +1808,11 @@
         "count": 11,
         "title": "Ad-Duha",
         "titleAr":"الضحى",
-        "index": "093",
-        "pages": "561",
+        "index": 93,
+        "pages": 561,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_11"
@@ -1826,11 +1826,11 @@
         "count": 8,
         "title": "Ash-Sharh",
         "titleAr":"الشرح",
-        "index": "094",
-        "pages": "561",
+        "index": 94,
+        "pages": 561,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_8"
@@ -1844,11 +1844,11 @@
         "count": 8,
         "title": "At-Tin",
         "titleAr":"التين",
-        "index": "095",
-        "pages": "562",
+        "index": 95,
+        "pages": 562,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_8"
@@ -1862,11 +1862,11 @@
         "count": 19,
         "title": "Al-Alaq",
         "titleAr":"العلق",
-        "index": "096",
-        "pages": "562",
+        "index": 96,
+        "pages": 562,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_19"
@@ -1880,11 +1880,11 @@
         "count": 5,
         "title": "Al-Qadr",
         "titleAr":"القدر",
-        "index": "097",
-        "pages": "563",
+        "index": 97,
+        "pages": 563,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_5"
@@ -1898,11 +1898,11 @@
         "count": 8,
         "title": "Al-Bayinah",
         "titleAr":"البينة",
-        "index": "098",
-        "pages": "563",
+        "index": 98,
+        "pages": 563,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_8"
@@ -1916,11 +1916,11 @@
         "count": 8,
         "title": "Az-Zalzalah",
         "titleAr":"الزلزلة",
-        "index": "099",
-        "pages": "564",
+        "index": 99,
+        "pages": 564,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_8"
@@ -1934,11 +1934,11 @@
         "count": 11,
         "title": "Al-Adiyat",
         "titleAr":"العاديات",
-        "index": "100",
-        "pages": "564",
+        "index": 100,
+        "pages": 564,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_11"
@@ -1952,11 +1952,11 @@
         "count": 11,
         "title": "Al-Qariah",
         "titleAr":"القارعة",
-        "index": "101",
-        "pages": "565",
+        "index": 101,
+        "pages": 565,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_11"
@@ -1970,11 +1970,11 @@
         "count": 8,
         "title": "Al-Takathur",
         "titleAr":"التكاثر",
-        "index": "102",
-        "pages": "565",
+        "index": 102,
+        "pages": 565,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_8"
@@ -1988,11 +1988,11 @@
         "count": 3,
         "title": "Al-Asr",
         "titleAr":"العصر",
-        "index": "103",
-        "pages": "566",
+        "index": 103,
+        "pages": 566,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_3"
@@ -2006,11 +2006,11 @@
         "count": 9,
         "title": "Al-Humazah",
         "titleAr":"الهمزة",
-        "index": "104",
-        "pages": "566",
+        "index": 104,
+        "pages": 566,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_9"
@@ -2024,11 +2024,11 @@
         "count": 5,
         "title": "Al-Fil",
         "titleAr":"الفيل",
-        "index": "105",
-        "pages": "566",
+        "index": 105,
+        "pages": 566,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_5"
@@ -2042,11 +2042,11 @@
         "count": 4,
         "title": "Quraish",
         "titleAr":"قريش",
-        "index": "106",
-        "pages": "567",
+        "index": 106,
+        "pages": 567,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_4"
@@ -2060,11 +2060,11 @@
         "count": 7,
         "title": "Al-Ma'un",
         "titleAr":"الماعون",
-        "index": "107",
-        "pages": "567",
+        "index": 107,
+        "pages": 567,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_7"
@@ -2078,11 +2078,11 @@
         "count": 3,
         "title": "Al-Kauthar",
         "titleAr":"الكوثر",
-        "index": "108",
-        "pages": "567",
+        "index": 108,
+        "pages": 567,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_3"
@@ -2096,11 +2096,11 @@
         "count": 6,
         "title": "Al-Kafirun",
         "titleAr":"الكافرون",
-        "index": "109",
-        "pages": "568",
+        "index": 109,
+        "pages": 568,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_6"
@@ -2114,11 +2114,11 @@
         "count": 3,
         "title": "An-Nasr",
         "titleAr":"النصر",
-        "index": "110",
-        "pages": "568",
+        "index": 110,
+        "pages": 568,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_3"
@@ -2132,11 +2132,11 @@
         "count": 5,
         "title": "Al-Masad",
         "titleAr":"المسد",
-        "index": "111",
-        "pages": "568",
+        "index": 111,
+        "pages": 568,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_5"
@@ -2150,11 +2150,11 @@
         "count": 4,
         "title": "Al-Ikhlas",
         "titleAr":"الإخلاص",
-        "index": "112",
-        "pages": "569",
+        "index": 112,
+        "pages": 569,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_4"
@@ -2168,11 +2168,11 @@
         "count": 5,
         "title": "Al-Falaq",
         "titleAr":"الفلق",
-        "index": "113",
-        "pages": "569",
+        "index": 113,
+        "pages": 569,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_5"
@@ -2186,11 +2186,11 @@
         "count": 6,
         "title": "An-Nas",
         "titleAr":"الناس",
-        "index": "114",
-        "pages": "569",
+        "index": 114,
+        "pages": 569,
         "juz": [
             {
-                "index": "30",
+                "index": 30,
                 "verse": {
                     "start": "verse_1",
                     "end": "verse_6"

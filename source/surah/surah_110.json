@@ -1,5 +1,5 @@
 {
-    "index": "110",
+    "index": 110,
     "name": "an-Nashr",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -10,7 +10,7 @@
     "count": 3,
     "juz": [
         {
-            "index": "30",
+            "index": 30,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_3"

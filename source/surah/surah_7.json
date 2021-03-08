@@ -1,5 +1,5 @@
 {
-    "index": "007",
+    "index": 7,
     "name": "al-A'raf ",
     "verse": {
         "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
@@ -213,14 +213,14 @@
     "count": 206,
     "juz": [
         {
-            "index": "08",
+            "index": 8,
             "verse": {
                 "start": "verse_1",
                 "end": "verse_87"
             }
         },
         {
-            "index": "09",
+            "index": 9,
             "verse": {
                 "start": "verse_88",
                 "end": "verse_206"
